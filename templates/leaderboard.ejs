@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<title>CMSC335 FINAL PROJECT</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" >
+</head>
+
+<body>
+    <div class="outerContainer">
+        <%- include('header.ejs') %>
+
+        <h1>Leaderboard: Higher or Lower</h1>
+
+        <p>Leaderboard of the top 10 scorers:</p>
+
+        <div>
+            <%- leaderboardTable %>
+        </div>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<title>CMSC335 FINAL PROJECT</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" >
+    <script src="gamePage.js" defer></script>
+</head>
+
+<body>
+    <div class="outerContainer">
+        <%- include('header.ejs') %>
+
+        <h1>
+            Round <%= round %>:&nbsp&nbsp Current score: <%= score %><br>
+        </h1>
+        
+        <h2>
+            Highscore for <%= name %> is: <%= highscore %>
+        </h2>
+
+
+        <p>Who averaged more points in the 2024-2025 season?</p>
+
+        <div class="playerGameContainer">
+            <p>Player 1: <%= playerOne.name %></p>
+            
+            <img src="https://cdn.nba.com/headshots/nba/latest/1040x760/<%= playerOne.id %>.png" alt="First Nba Player" width="300" height="auto">
+
+
+            <button type="button" id="button1">
+                <%= playerOne.name %>
+            </button>
+            
+        </div>
+
+        <div class="playerGameContainer">
+            <p>Player 2: <%= playerTwo.name %></p>
+            <img src="https://cdn.nba.com/headshots/nba/latest/1040x760/<%= playerTwo.id %>.png" alt="Second Nba Player" width="300" height="auto">
+            <button type="button" id="button2">
+                <%= playerTwo.name %>
+            </button>
+
+        </div>
+
+        <br>
+        <br>
+
+    </div>
+
+    <script>
+        
+    </script>
+	
+</body>
+
+</html>

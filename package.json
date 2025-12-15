@@ -1,0 +1,29 @@
+{
+  "name": "cmsc335-final-project",
+  "version": "1.0.0",
+  "description": "Submitted by: Rose Smith (superterp)",
+  "homepage": "https://github.com/bryanyang832/CMSC335-Final-Project#readme",
+  "bugs": {
+    "url": "https://github.com/bryanyang832/CMSC335-Final-Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanyang832/CMSC335-Final-Project.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.1",
+    "dotenv": "^17.2.3",
+    "ejs": "^3.1.10",
+    "express": "^5.2.1",
+    "express-session": "^1.18.2",
+    "mongoose": "^9.0.1",
+    "nba": "^4.15.0"
+  }
+}

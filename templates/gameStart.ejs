@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<title>CMSC335 FINAL PROJECT</title>
+
+    <link rel="stylesheet" href="style.css" type="text/css">
+
+    <!-- favicon -->
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" >
+</head>
+
+<body>
+    <div class="outerContainer">
+        <%- include('header.ejs') %>
+
+        <h1>Higher or Lower Game: 2024-2025 Season</h1>
+
+        <p><em>In this game, you select the player that you think averaged more points</em></p>
+
+        <br>
+        <form action="/gameStart" method="post">
+            <label>Enter your name:
+                <input type="text" id="name" name="name" placeholder="type here" required>
+            </label>
+            <button type="submit">Start Game</button>
+        </form>
+
+        <br>
+        <br>
+
+        <img src="nba_image.webp" alt="Description of the image" width="300" height="200">
+    </div>
+
+</body>
+
+</html>

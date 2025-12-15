@@ -1,0 +1,3985 @@
+[
+  {
+    "name": "A.J. Lawson",
+    "ppg": 9.1,
+    "apg": 1.2,
+    "rpg": 3.3,
+    "id": 1630639
+  },
+  {
+    "name": "AJ Green",
+    "ppg": 7.4,
+    "apg": 1.5,
+    "rpg": 2.4,
+    "id": 1631260
+  },
+  {
+    "name": "AJ Johnson",
+    "ppg": 7.6,
+    "apg": 2.6,
+    "rpg": 2,
+    "id": 1642358
+  },
+  {
+    "name": "Aaron Gordon",
+    "ppg": 14.7,
+    "apg": 3.2,
+    "rpg": 4.8,
+    "id": 203932
+  },
+  {
+    "name": "Aaron Holiday",
+    "ppg": 5.5,
+    "apg": 1.3,
+    "rpg": 1.3,
+    "id": 1628988
+  },
+  {
+    "name": "Aaron Nesmith",
+    "ppg": 12,
+    "apg": 1.2,
+    "rpg": 4,
+    "id": 1630174
+  },
+  {
+    "name": "Aaron Wiggins",
+    "ppg": 12,
+    "apg": 1.8,
+    "rpg": 3.9,
+    "id": 1630598
+  },
+  {
+    "name": "Adam Flagler",
+    "ppg": 1.8,
+    "apg": 0.3,
+    "rpg": 0.7,
+    "id": 1641745
+  },
+  {
+    "name": "Adama Sanogo",
+    "ppg": 2,
+    "apg": 0.3,
+    "rpg": 1.5,
+    "id": 1641766
+  },
+  {
+    "name": "Adem Bona",
+    "ppg": 5.8,
+    "apg": 0.5,
+    "rpg": 4.2,
+    "id": 1641737
+  },
+  {
+    "name": "Ajay Mitchell",
+    "ppg": 6.5,
+    "apg": 1.8,
+    "rpg": 1.9,
+    "id": 1642349
+  },
+  {
+    "name": "Al Horford",
+    "ppg": 9,
+    "apg": 2.1,
+    "rpg": 6.2,
+    "id": 201143
+  },
+  {
+    "name": "Alec Burks",
+    "ppg": 7.3,
+    "apg": 1.1,
+    "rpg": 2.5,
+    "id": 202692
+  },
+  {
+    "name": "Alex Caruso",
+    "ppg": 7.1,
+    "apg": 2.5,
+    "rpg": 2.9,
+    "id": 1627936
+  },
+  {
+    "name": "Alex Ducas",
+    "ppg": 1.7,
+    "apg": 0.2,
+    "rpg": 1.2,
+    "id": 1642505
+  },
+  {
+    "name": "Alex Len",
+    "ppg": 1.6,
+    "apg": 0.8,
+    "rpg": 2.1,
+    "id": 203458
+  },
+  {
+    "name": "Alex Reese",
+    "ppg": 5.1,
+    "apg": 0.3,
+    "rpg": 3.1,
+    "id": 1642024
+  },
+  {
+    "name": "Alex Sarr",
+    "ppg": 13,
+    "apg": 2.4,
+    "rpg": 6.5,
+    "id": 1642259
+  },
+  {
+    "name": "Alondes Williams",
+    "ppg": 5,
+    "apg": 1,
+    "rpg": 0,
+    "id": 1631214
+  },
+  {
+    "name": "Alperen Sengun",
+    "ppg": 19.1,
+    "apg": 4.9,
+    "rpg": 10.3,
+    "id": 1630578
+  },
+  {
+    "name": "Amen Thompson",
+    "ppg": 14.1,
+    "apg": 3.8,
+    "rpg": 8.2,
+    "id": 1641708
+  },
+  {
+    "name": "Amir Coffey",
+    "ppg": 9.7,
+    "apg": 1.1,
+    "rpg": 2.2,
+    "id": 1629599
+  },
+  {
+    "name": "Andre Drummond",
+    "ppg": 7.3,
+    "apg": 0.9,
+    "rpg": 7.8,
+    "id": 203083
+  },
+  {
+    "name": "Andre Jackson Jr.",
+    "ppg": 3.4,
+    "apg": 1.2,
+    "rpg": 2.7,
+    "id": 1641748
+  },
+  {
+    "name": "Andrew Nembhard",
+    "ppg": 10,
+    "apg": 5,
+    "rpg": 3.3,
+    "id": 1629614
+  },
+  {
+    "name": "Andrew Wiggins",
+    "ppg": 18,
+    "apg": 2.6,
+    "rpg": 4.5,
+    "id": 203952
+  },
+  {
+    "name": "Anfernee Simons",
+    "ppg": 19.3,
+    "apg": 4.8,
+    "rpg": 2.7,
+    "id": 1629014
+  },
+  {
+    "name": "Anthony Black",
+    "ppg": 9.4,
+    "apg": 3.1,
+    "rpg": 2.9,
+    "id": 1641710
+  },
+  {
+    "name": "Anthony Davis",
+    "ppg": 24.7,
+    "apg": 3.5,
+    "rpg": 11.6,
+    "id": 203076
+  },
+  {
+    "name": "Anthony Edwards",
+    "ppg": 27.6,
+    "apg": 4.5,
+    "rpg": 5.7,
+    "id": 1630162
+  },
+  {
+    "name": "Anthony Gill",
+    "ppg": 2.5,
+    "apg": 0.3,
+    "rpg": 1.3,
+    "id": 1630264
+  },
+  {
+    "name": "Anton Watson",
+    "ppg": 0.9,
+    "apg": 0.2,
+    "rpg": 0.3,
+    "id": 1641817
+  },
+  {
+    "name": "Antonio Reeves",
+    "ppg": 6.9,
+    "apg": 0.9,
+    "rpg": 1.4,
+    "id": 1641810
+  },
+  {
+    "name": "Ariel Hukporti",
+    "ppg": 1.9,
+    "apg": 0.4,
+    "rpg": 2,
+    "id": 1630574
+  },
+  {
+    "name": "Armel Traore",
+    "ppg": 1.6,
+    "apg": 0.1,
+    "rpg": 1.7,
+    "id": 1642422
+  },
+  {
+    "name": "Ausar Thompson",
+    "ppg": 10.1,
+    "apg": 2.3,
+    "rpg": 5.1,
+    "id": 1641709
+  },
+  {
+    "name": "Austin Reaves",
+    "ppg": 20.2,
+    "apg": 5.8,
+    "rpg": 4.5,
+    "id": 1630559
+  },
+  {
+    "name": "Ayo Dosunmu",
+    "ppg": 12.3,
+    "apg": 4.5,
+    "rpg": 3.5,
+    "id": 1630245
+  },
+  {
+    "name": "Bam Adebayo",
+    "ppg": 18.1,
+    "apg": 4.3,
+    "rpg": 9.6,
+    "id": 1628389
+  },
+  {
+    "name": "Baylor Scheierman",
+    "ppg": 3.6,
+    "apg": 1.1,
+    "rpg": 2.1,
+    "id": 1631248
+  },
+  {
+    "name": "Ben Sheppard",
+    "ppg": 5.3,
+    "apg": 1.3,
+    "rpg": 2.8,
+    "id": 1641767
+  },
+  {
+    "name": "Ben Simmons",
+    "ppg": 5,
+    "apg": 5.6,
+    "rpg": 4.7,
+    "id": 1627732
+  },
+  {
+    "name": "Bennedict Mathurin",
+    "ppg": 16.1,
+    "apg": 1.9,
+    "rpg": 5.3,
+    "id": 1631097
+  },
+  {
+    "name": "Bilal Coulibaly",
+    "ppg": 12.3,
+    "apg": 3.4,
+    "rpg": 5,
+    "id": 1641731
+  },
+  {
+    "name": "Bismack Biyombo",
+    "ppg": 5.1,
+    "apg": 1.1,
+    "rpg": 5.6,
+    "id": 202687
+  },
+  {
+    "name": "Blake Wesley",
+    "ppg": 3.7,
+    "apg": 2,
+    "rpg": 1.1,
+    "id": 1631104
+  },
+  {
+    "name": "Bobby Portis",
+    "ppg": 13.9,
+    "apg": 2.1,
+    "rpg": 8.4,
+    "id": 1626171
+  },
+  {
+    "name": "Bobi Klintman",
+    "ppg": 1.9,
+    "apg": 0.9,
+    "rpg": 0.9,
+    "id": 1641752
+  },
+  {
+    "name": "Bogdan Bogdanović",
+    "ppg": 10.8,
+    "apg": 2.7,
+    "rpg": 2.9,
+    "id": 203992
+  },
+  {
+    "name": "Bol Bol",
+    "ppg": 6.8,
+    "apg": 0.6,
+    "rpg": 2.9,
+    "id": 1629626
+  },
+  {
+    "name": "Bones Hyland",
+    "ppg": 6.2,
+    "apg": 1.3,
+    "rpg": 1,
+    "id": 1630538
+  },
+  {
+    "name": "Bradley Beal",
+    "ppg": 17,
+    "apg": 3.7,
+    "rpg": 3.3,
+    "id": 203078
+  },
+  {
+    "name": "Branden Carlson",
+    "ppg": 3.8,
+    "apg": 0.4,
+    "rpg": 1.7,
+    "id": 1642382
+  },
+  {
+    "name": "Brandin Podziemski",
+    "ppg": 11.7,
+    "apg": 3.4,
+    "rpg": 5.1,
+    "id": 1641764
+  },
+  {
+    "name": "Brandon Boston",
+    "ppg": 10.7,
+    "apg": 2.2,
+    "rpg": 3.2,
+    "id": 1630527
+  },
+  {
+    "name": "Brandon Clarke",
+    "ppg": 8.3,
+    "apg": 1,
+    "rpg": 5.1,
+    "id": 1629634
+  },
+  {
+    "name": "Brandon Ingram",
+    "ppg": 22.2,
+    "apg": 5.2,
+    "rpg": 5.6,
+    "id": 1627742
+  },
+  {
+    "name": "Brandon Miller",
+    "ppg": 21,
+    "apg": 3.6,
+    "rpg": 4.9,
+    "id": 1641706
+  },
+  {
+    "name": "Brandon Williams",
+    "ppg": 8.3,
+    "apg": 2.3,
+    "rpg": 1.8,
+    "id": 1630314
+  },
+  {
+    "name": "Braxton Key",
+    "ppg": 1,
+    "apg": 0,
+    "rpg": 0.7,
+    "id": 1630296
+  },
+  {
+    "name": "Brice Sensabaugh",
+    "ppg": 10.9,
+    "apg": 1.5,
+    "rpg": 3,
+    "id": 1641729
+  },
+  {
+    "name": "Bronny James",
+    "ppg": 2.3,
+    "apg": 0.8,
+    "rpg": 0.7,
+    "id": 1642355
+  },
+  {
+    "name": "Brook Lopez",
+    "ppg": 13,
+    "apg": 1.8,
+    "rpg": 5,
+    "id": 201572
+  },
+  {
+    "name": "Bruce Brown",
+    "ppg": 8.3,
+    "apg": 2,
+    "rpg": 4,
+    "id": 1628971
+  },
+  {
+    "name": "Bruno Fernando",
+    "ppg": 3.4,
+    "apg": 1.1,
+    "rpg": 3,
+    "id": 1628981
+  },
+  {
+    "name": "Bryce McGowens",
+    "ppg": 1,
+    "apg": 0.2,
+    "rpg": 0.2,
+    "id": 1631121
+  },
+  {
+    "name": "Bub Carrington",
+    "ppg": 9.8,
+    "apg": 4.4,
+    "rpg": 4.2,
+    "id": 1642267
+  },
+  {
+    "name": "Buddy Hield",
+    "ppg": 11.1,
+    "apg": 1.6,
+    "rpg": 3.2,
+    "id": 1627741
+  },
+  {
+    "name": "CJ McCollum",
+    "ppg": 21.1,
+    "apg": 4.1,
+    "rpg": 3.8,
+    "id": 203468
+  },
+  {
+    "name": "Cade Cunningham",
+    "ppg": 26.1,
+    "apg": 9.1,
+    "rpg": 6.1,
+    "id": 1630595
+  },
+  {
+    "name": "Caleb Houstan",
+    "ppg": 4.1,
+    "apg": 0.6,
+    "rpg": 1.3,
+    "id": 1631216
+  },
+  {
+    "name": "Caleb Martin",
+    "ppg": 7.9,
+    "apg": 2.1,
+    "rpg": 3.9,
+    "id": 1628997
+  },
+  {
+    "name": "Cam Christie",
+    "ppg": 1.4,
+    "apg": 0.5,
+    "rpg": 0.9,
+    "id": 1642353
+  },
+  {
+    "name": "Cam Reddish",
+    "ppg": 3.2,
+    "apg": 0.7,
+    "rpg": 2,
+    "id": 1629629
+  },
+  {
+    "name": "Cam Spencer",
+    "ppg": 4.2,
+    "apg": 1.4,
+    "rpg": 1.2,
+    "id": 1642285
+  },
+  {
+    "name": "Cam Thomas",
+    "ppg": 24,
+    "apg": 3.8,
+    "rpg": 3.3,
+    "id": 1630560
+  },
+  {
+    "name": "Cam Whitmore",
+    "ppg": 9.4,
+    "apg": 1,
+    "rpg": 3,
+    "id": 1641715
+  },
+  {
+    "name": "Cameron Johnson",
+    "ppg": 18.8,
+    "apg": 3.4,
+    "rpg": 4.3,
+    "id": 1629661
+  },
+  {
+    "name": "Cameron Payne",
+    "ppg": 6.9,
+    "apg": 2.8,
+    "rpg": 1.4,
+    "id": 1626166
+  },
+  {
+    "name": "Caris LeVert",
+    "ppg": 12.1,
+    "apg": 3.4,
+    "rpg": 3.2,
+    "id": 1627747
+  },
+  {
+    "name": "Cason Wallace",
+    "ppg": 8.4,
+    "apg": 2.5,
+    "rpg": 3.4,
+    "id": 1641717
+  },
+  {
+    "name": "Charles Bassey",
+    "ppg": 4.4,
+    "apg": 0.5,
+    "rpg": 4.2,
+    "id": 1629646
+  },
+  {
+    "name": "Chet Holmgren",
+    "ppg": 15,
+    "apg": 2,
+    "rpg": 8,
+    "id": 1631096
+  },
+  {
+    "name": "Chris Boucher",
+    "ppg": 10,
+    "apg": 0.7,
+    "rpg": 4.5,
+    "id": 1628449
+  },
+  {
+    "name": "Chris Duarte",
+    "ppg": 2.1,
+    "apg": 0.5,
+    "rpg": 1.2,
+    "id": 1630537
+  },
+  {
+    "name": "Chris Livingston",
+    "ppg": 1.4,
+    "apg": 0.2,
+    "rpg": 1.7,
+    "id": 1641753
+  },
+  {
+    "name": "Chris Paul",
+    "ppg": 8.8,
+    "apg": 7.4,
+    "rpg": 3.6,
+    "id": 101108
+  },
+  {
+    "name": "Christian Braun",
+    "ppg": 15.4,
+    "apg": 2.6,
+    "rpg": 5.2,
+    "id": 1631128
+  },
+  {
+    "name": "Christian Koloko",
+    "ppg": 2.4,
+    "apg": 0.4,
+    "rpg": 2.5,
+    "id": 1631132
+  },
+  {
+    "name": "Chuma Okeke",
+    "ppg": 5.9,
+    "apg": 1.7,
+    "rpg": 5.2,
+    "id": 1629643
+  },
+  {
+    "name": "Clint Capela",
+    "ppg": 8.9,
+    "apg": 1.1,
+    "rpg": 8.5,
+    "id": 203991
+  },
+  {
+    "name": "Coby White",
+    "ppg": 20.4,
+    "apg": 4.5,
+    "rpg": 3.7,
+    "id": 1629632
+  },
+  {
+    "name": "Cody Martin",
+    "ppg": 6.8,
+    "apg": 2,
+    "rpg": 4.2,
+    "id": 1628998
+  },
+  {
+    "name": "Cody Williams",
+    "ppg": 4.6,
+    "apg": 1.2,
+    "rpg": 2.3,
+    "id": 1642262
+  },
+  {
+    "name": "Colby Jones",
+    "ppg": 4,
+    "apg": 1.1,
+    "rpg": 2.2,
+    "id": 1641732
+  },
+  {
+    "name": "Cole Anthony",
+    "ppg": 9.4,
+    "apg": 2.9,
+    "rpg": 3,
+    "id": 1630175
+  },
+  {
+    "name": "Cole Swider",
+    "ppg": 5.9,
+    "apg": 0.3,
+    "rpg": 2.7,
+    "id": 1631306
+  },
+  {
+    "name": "Colin Castleton",
+    "ppg": 4.7,
+    "apg": 1.1,
+    "rpg": 4.7,
+    "id": 1630658
+  },
+  {
+    "name": "Collin Gillespie",
+    "ppg": 5.9,
+    "apg": 2.4,
+    "rpg": 2.4,
+    "id": 1631221
+  },
+  {
+    "name": "Collin Sexton",
+    "ppg": 18.4,
+    "apg": 4.2,
+    "rpg": 2.7,
+    "id": 1629012
+  },
+  {
+    "name": "Corey Kispert",
+    "ppg": 11.6,
+    "apg": 1.7,
+    "rpg": 3,
+    "id": 1630557
+  },
+  {
+    "name": "Cory Joseph",
+    "ppg": 3.5,
+    "apg": 1.4,
+    "rpg": 1.5,
+    "id": 202709
+  },
+  {
+    "name": "Craig Porter Jr.",
+    "ppg": 3.7,
+    "apg": 1.4,
+    "rpg": 1.3,
+    "id": 1641854
+  },
+  {
+    "name": "Cui Cui",
+    "ppg": 0.6,
+    "apg": 0,
+    "rpg": 0.4,
+    "id": 1642385
+  },
+  {
+    "name": "D'Angelo Russell",
+    "ppg": 12.6,
+    "apg": 5.1,
+    "rpg": 2.8,
+    "id": 1626156
+  },
+  {
+    "name": "D.J. Carton",
+    "ppg": 0.8,
+    "apg": 0.8,
+    "rpg": 1,
+    "id": 1630618
+  },
+  {
+    "name": "DaQuan Jeffries",
+    "ppg": 6.7,
+    "apg": 1.1,
+    "rpg": 2.9,
+    "id": 1629610
+  },
+  {
+    "name": "Daeqwon Plowden",
+    "ppg": 7.2,
+    "apg": 0.3,
+    "rpg": 1.8,
+    "id": 1631342
+  },
+  {
+    "name": "Daishen Nix",
+    "ppg": 0.3,
+    "apg": 1,
+    "rpg": 1.3,
+    "id": 1630227
+  },
+  {
+    "name": "Dalano Banton",
+    "ppg": 8.3,
+    "apg": 2.4,
+    "rpg": 2,
+    "id": 1630625
+  },
+  {
+    "name": "Dalen Terry",
+    "ppg": 4.5,
+    "apg": 1.3,
+    "rpg": 1.7,
+    "id": 1631207
+  },
+  {
+    "name": "Dalton Knecht",
+    "ppg": 9.1,
+    "apg": 0.8,
+    "rpg": 2.8,
+    "id": 1642261
+  },
+  {
+    "name": "Damian Lillard",
+    "ppg": 24.9,
+    "apg": 7.1,
+    "rpg": 4.7,
+    "id": 203081
+  },
+  {
+    "name": "Damion Baugh",
+    "ppg": 7.3,
+    "apg": 3.7,
+    "rpg": 3.3,
+    "id": 1641878
+  },
+  {
+    "name": "Damion Lee",
+    "ppg": 3.3,
+    "apg": 0.4,
+    "rpg": 0.8,
+    "id": 1627814
+  },
+  {
+    "name": "Daniel Gafford",
+    "ppg": 12.3,
+    "apg": 1.4,
+    "rpg": 6.8,
+    "id": 1629655
+  },
+  {
+    "name": "Daniel Theis",
+    "ppg": 4.3,
+    "apg": 1.6,
+    "rpg": 4.3,
+    "id": 1628464
+  },
+  {
+    "name": "Daniss Jenkins",
+    "ppg": 1,
+    "apg": 0.4,
+    "rpg": 0.3,
+    "id": 1642450
+  },
+  {
+    "name": "Danté Exum",
+    "ppg": 8.7,
+    "apg": 2.8,
+    "rpg": 1.7,
+    "id": 203957
+  },
+  {
+    "name": "Dario Šarić",
+    "ppg": 3.5,
+    "apg": 1.4,
+    "rpg": 3.1,
+    "id": 203967
+  },
+  {
+    "name": "Dariq Whitehead",
+    "ppg": 5.7,
+    "apg": 0.6,
+    "rpg": 1.5,
+    "id": 1641727
+  },
+  {
+    "name": "Darius Garland",
+    "ppg": 20.6,
+    "apg": 6.7,
+    "rpg": 2.9,
+    "id": 1629636
+  },
+  {
+    "name": "David Duke Jr.",
+    "ppg": 2.7,
+    "apg": 0.7,
+    "rpg": 0.8,
+    "id": 1630561
+  },
+  {
+    "name": "David Roddy",
+    "ppg": 4.6,
+    "apg": 1.1,
+    "rpg": 2.5,
+    "id": 1631223
+  },
+  {
+    "name": "Davion Mitchell",
+    "ppg": 7.9,
+    "apg": 4.9,
+    "rpg": 2.3,
+    "id": 1630558
+  },
+  {
+    "name": "Day'Ron Sharpe",
+    "ppg": 7.9,
+    "apg": 1.8,
+    "rpg": 6.6,
+    "id": 1630549
+  },
+  {
+    "name": "De'Aaron Fox",
+    "ppg": 23.5,
+    "apg": 6.3,
+    "rpg": 4.8,
+    "id": 1628368
+  },
+  {
+    "name": "De'Andre Hunter",
+    "ppg": 17,
+    "apg": 1.4,
+    "rpg": 4,
+    "id": 1629631
+  },
+  {
+    "name": "De'Anthony Melton",
+    "ppg": 10.3,
+    "apg": 2.8,
+    "rpg": 3.3,
+    "id": 1629001
+  },
+  {
+    "name": "DeAndre Jordan",
+    "ppg": 3.7,
+    "apg": 0.9,
+    "rpg": 5.1,
+    "id": 201599
+  },
+  {
+    "name": "DeMar DeRozan",
+    "ppg": 22.2,
+    "apg": 4.4,
+    "rpg": 3.9,
+    "id": 201942
+  },
+  {
+    "name": "Dean Wade",
+    "ppg": 5.4,
+    "apg": 1.3,
+    "rpg": 4.2,
+    "id": 1629731
+  },
+  {
+    "name": "Deandre Ayton",
+    "ppg": 14.4,
+    "apg": 1.6,
+    "rpg": 10.2,
+    "id": 1629028
+  },
+  {
+    "name": "Dejounte Murray",
+    "ppg": 17.5,
+    "apg": 7.4,
+    "rpg": 6.5,
+    "id": 1627749
+  },
+  {
+    "name": "Delon Wright",
+    "ppg": 3.1,
+    "apg": 1.9,
+    "rpg": 1.7,
+    "id": 1626153
+  },
+  {
+    "name": "Deni Avdija",
+    "ppg": 16.9,
+    "apg": 3.9,
+    "rpg": 7.3,
+    "id": 1630166
+  },
+  {
+    "name": "Dennis Schröder",
+    "ppg": 13.1,
+    "apg": 5.4,
+    "rpg": 2.6,
+    "id": 203471
+  },
+  {
+    "name": "Dereck Lively II",
+    "ppg": 8.7,
+    "apg": 2.4,
+    "rpg": 7.5,
+    "id": 1641726
+  },
+  {
+    "name": "Derrick Jones Jr.",
+    "ppg": 10.1,
+    "apg": 0.8,
+    "rpg": 3.4,
+    "id": 1627884
+  },
+  {
+    "name": "Derrick White",
+    "ppg": 16.4,
+    "apg": 4.8,
+    "rpg": 4.5,
+    "id": 1628401
+  },
+  {
+    "name": "Desmond Bane",
+    "ppg": 19.2,
+    "apg": 5.3,
+    "rpg": 6.1,
+    "id": 1630217
+  },
+  {
+    "name": "Devin Booker",
+    "ppg": 25.6,
+    "apg": 7.1,
+    "rpg": 4.1,
+    "id": 1626164
+  },
+  {
+    "name": "Devin Carter",
+    "ppg": 3.8,
+    "apg": 1.1,
+    "rpg": 2.1,
+    "id": 1642269
+  },
+  {
+    "name": "Devin Vassell",
+    "ppg": 16.3,
+    "apg": 2.9,
+    "rpg": 4,
+    "id": 1630170
+  },
+  {
+    "name": "Dillon Brooks",
+    "ppg": 14,
+    "apg": 1.7,
+    "rpg": 3.7,
+    "id": 1628415
+  },
+  {
+    "name": "Dillon Jones",
+    "ppg": 2.5,
+    "apg": 1.1,
+    "rpg": 2.2,
+    "id": 1641794
+  },
+  {
+    "name": "Domantas Sabonis",
+    "ppg": 19.1,
+    "apg": 6,
+    "rpg": 13.9,
+    "id": 1627734
+  },
+  {
+    "name": "Dominick Barlow",
+    "ppg": 4.2,
+    "apg": 0.5,
+    "rpg": 2.4,
+    "id": 1631230
+  },
+  {
+    "name": "Donovan Clingan",
+    "ppg": 6.5,
+    "apg": 1.1,
+    "rpg": 7.9,
+    "id": 1642270
+  },
+  {
+    "name": "Donovan Mitchell",
+    "ppg": 24,
+    "apg": 5,
+    "rpg": 4.5,
+    "id": 1628378
+  },
+  {
+    "name": "Donte DiVincenzo",
+    "ppg": 11.7,
+    "apg": 3.6,
+    "rpg": 3.7,
+    "id": 1628978
+  },
+  {
+    "name": "Dorian Finney-Smith",
+    "ppg": 8.7,
+    "apg": 1.4,
+    "rpg": 3.9,
+    "id": 1627827
+  },
+  {
+    "name": "Doug McDermott",
+    "ppg": 3.5,
+    "apg": 0.2,
+    "rpg": 0.5,
+    "id": 203926
+  },
+  {
+    "name": "Draymond Green",
+    "ppg": 9,
+    "apg": 5.6,
+    "rpg": 6.1,
+    "id": 203110
+  },
+  {
+    "name": "Drew Eubanks",
+    "ppg": 4.6,
+    "apg": 0.9,
+    "rpg": 3.7,
+    "id": 1629234
+  },
+  {
+    "name": "Drew Peterson",
+    "ppg": 2.2,
+    "apg": 0.5,
+    "rpg": 1.6,
+    "id": 1641809
+  },
+  {
+    "name": "Drew Timme",
+    "ppg": 12.1,
+    "apg": 2.2,
+    "rpg": 7.2,
+    "id": 1631166
+  },
+  {
+    "name": "Dru Smith",
+    "ppg": 6.2,
+    "apg": 1.6,
+    "rpg": 2.6,
+    "id": 1630696
+  },
+  {
+    "name": "Duncan Robinson",
+    "ppg": 11,
+    "apg": 2.4,
+    "rpg": 2.3,
+    "id": 1629130
+  },
+  {
+    "name": "Duop Reath",
+    "ppg": 4.2,
+    "apg": 0.6,
+    "rpg": 2,
+    "id": 1641871
+  },
+  {
+    "name": "Dwight Powell",
+    "ppg": 2.1,
+    "apg": 1,
+    "rpg": 2.1,
+    "id": 203939
+  },
+  {
+    "name": "Dyson Daniels",
+    "ppg": 14.1,
+    "apg": 4.4,
+    "rpg": 5.9,
+    "id": 1630700
+  },
+  {
+    "name": "E.J. Liddell",
+    "ppg": 1.8,
+    "apg": 0.3,
+    "rpg": 0.8,
+    "id": 1630604
+  },
+  {
+    "name": "Elfrid Payton",
+    "ppg": 3.5,
+    "apg": 6.9,
+    "rpg": 3.3,
+    "id": 203901
+  },
+  {
+    "name": "Elijah Harkless",
+    "ppg": 3.2,
+    "apg": 0.8,
+    "rpg": 2.1,
+    "id": 1641989
+  },
+  {
+    "name": "Emanuel Miller",
+    "ppg": 1.7,
+    "apg": 0.3,
+    "rpg": 1.3,
+    "id": 1641801
+  },
+  {
+    "name": "Emoni Bates",
+    "ppg": 3.7,
+    "apg": 0.8,
+    "rpg": 0.7,
+    "id": 1641734
+  },
+  {
+    "name": "Enrique Freeman",
+    "ppg": 2.1,
+    "apg": 0.4,
+    "rpg": 1.4,
+    "id": 1642402
+  },
+  {
+    "name": "Eric Gordon",
+    "ppg": 6.8,
+    "apg": 1.7,
+    "rpg": 1.2,
+    "id": 201569
+  },
+  {
+    "name": "Evan Mobley",
+    "ppg": 18.5,
+    "apg": 3.2,
+    "rpg": 9.3,
+    "id": 1630596
+  },
+  {
+    "name": "Franz Wagner",
+    "ppg": 24.2,
+    "apg": 4.7,
+    "rpg": 5.7,
+    "id": 1630532
+  },
+  {
+    "name": "Fred VanVleet",
+    "ppg": 14.1,
+    "apg": 5.6,
+    "rpg": 3.7,
+    "id": 1627832
+  },
+  {
+    "name": "GG Jackson",
+    "ppg": 7.2,
+    "apg": 1,
+    "rpg": 3.2,
+    "id": 1641713
+  },
+  {
+    "name": "Gabe Vincent",
+    "ppg": 6.4,
+    "apg": 1.4,
+    "rpg": 1.3,
+    "id": 1629216
+  },
+  {
+    "name": "Garrett Temple",
+    "ppg": 1.9,
+    "apg": 1.1,
+    "rpg": 1,
+    "id": 202066
+  },
+  {
+    "name": "Garrison Mathews",
+    "ppg": 7.5,
+    "apg": 1.3,
+    "rpg": 1.9,
+    "id": 1629726
+  },
+  {
+    "name": "Gary Harris",
+    "ppg": 3,
+    "apg": 0.6,
+    "rpg": 1.3,
+    "id": 203914
+  },
+  {
+    "name": "Gary Payton II",
+    "ppg": 6.5,
+    "apg": 1.3,
+    "rpg": 3,
+    "id": 1627780
+  },
+  {
+    "name": "Gary Trent Jr.",
+    "ppg": 11.1,
+    "apg": 1.2,
+    "rpg": 2.3,
+    "id": 1629018
+  },
+  {
+    "name": "Georges Niang",
+    "ppg": 9.9,
+    "apg": 1.4,
+    "rpg": 3.4,
+    "id": 1627777
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "ppg": 30.4,
+    "apg": 6.5,
+    "rpg": 11.9,
+    "id": 203507
+  },
+  {
+    "name": "Goga Bitadze",
+    "ppg": 7.2,
+    "apg": 2,
+    "rpg": 6.6,
+    "id": 1629048
+  },
+  {
+    "name": "Gradey Dick",
+    "ppg": 14.4,
+    "apg": 1.8,
+    "rpg": 3.6,
+    "id": 1641711
+  },
+  {
+    "name": "Grant Williams",
+    "ppg": 10.4,
+    "apg": 2.3,
+    "rpg": 5.1,
+    "id": 1629684
+  },
+  {
+    "name": "Grayson Allen",
+    "ppg": 10.6,
+    "apg": 2.1,
+    "rpg": 3,
+    "id": 1628960
+  },
+  {
+    "name": "Guerschon Yabusele",
+    "ppg": 11,
+    "apg": 2.1,
+    "rpg": 5.6,
+    "id": 1627824
+  },
+  {
+    "name": "Gui Santos",
+    "ppg": 4.1,
+    "apg": 1.4,
+    "rpg": 3.1,
+    "id": 1630611
+  },
+  {
+    "name": "Harrison Barnes",
+    "ppg": 12.3,
+    "apg": 1.7,
+    "rpg": 3.8,
+    "id": 203084
+  },
+  {
+    "name": "Harrison Ingram",
+    "ppg": 0.8,
+    "apg": 0.6,
+    "rpg": 1.8,
+    "id": 1631127
+  },
+  {
+    "name": "Haywood Highsmith",
+    "ppg": 6.5,
+    "apg": 1.5,
+    "rpg": 3.4,
+    "id": 1629312
+  },
+  {
+    "name": "Herbert Jones",
+    "ppg": 10.3,
+    "apg": 3.3,
+    "rpg": 3.9,
+    "id": 1630529
+  },
+  {
+    "name": "Hunter Tyson",
+    "ppg": 2.6,
+    "apg": 0.4,
+    "rpg": 1.5,
+    "id": 1641816
+  },
+  {
+    "name": "Immanuel Quickley",
+    "ppg": 17.1,
+    "apg": 5.8,
+    "rpg": 3.5,
+    "id": 1630193
+  },
+  {
+    "name": "Isaac Jones",
+    "ppg": 3.4,
+    "apg": 0.3,
+    "rpg": 1.4,
+    "id": 1642403
+  },
+  {
+    "name": "Isaac Okoro",
+    "ppg": 6.1,
+    "apg": 1.2,
+    "rpg": 2.4,
+    "id": 1630171
+  },
+  {
+    "name": "Isaiah Collier",
+    "ppg": 8.7,
+    "apg": 6.3,
+    "rpg": 3.3,
+    "id": 1642268
+  },
+  {
+    "name": "Isaiah Crawford",
+    "ppg": 0.9,
+    "apg": 0.1,
+    "rpg": 0.5,
+    "id": 1642384
+  },
+  {
+    "name": "Isaiah Hartenstein",
+    "ppg": 11.2,
+    "apg": 3.8,
+    "rpg": 10.7,
+    "id": 1628392
+  },
+  {
+    "name": "Isaiah Jackson",
+    "ppg": 7,
+    "apg": 1,
+    "rpg": 5.6,
+    "id": 1630543
+  },
+  {
+    "name": "Isaiah Joe",
+    "ppg": 10.2,
+    "apg": 1.6,
+    "rpg": 2.6,
+    "id": 1630198
+  },
+  {
+    "name": "Isaiah Mobley",
+    "ppg": 6,
+    "apg": 5,
+    "rpg": 4,
+    "id": 1630600
+  },
+  {
+    "name": "Isaiah Stevens",
+    "ppg": 0,
+    "apg": 0,
+    "rpg": 0.7,
+    "id": 1641815
+  },
+  {
+    "name": "Isaiah Stewart",
+    "ppg": 6,
+    "apg": 1.7,
+    "rpg": 5.5,
+    "id": 1630191
+  },
+  {
+    "name": "Isaiah Wong",
+    "ppg": 6,
+    "apg": 1.4,
+    "rpg": 1.6,
+    "id": 1631209
+  },
+  {
+    "name": "Ivica Zubac",
+    "ppg": 16.8,
+    "apg": 2.7,
+    "rpg": 12.6,
+    "id": 1627826
+  },
+  {
+    "name": "JD Davison",
+    "ppg": 2.1,
+    "apg": 0.8,
+    "rpg": 0.8,
+    "id": 1631120
+  },
+  {
+    "name": "JT Thor",
+    "ppg": 3.6,
+    "apg": 0.3,
+    "rpg": 2.4,
+    "id": 1630550
+  },
+  {
+    "name": "Ja Morant",
+    "ppg": 23.2,
+    "apg": 7.3,
+    "rpg": 4.1,
+    "id": 1629630
+  },
+  {
+    "name": "Ja'Kobe Walter",
+    "ppg": 8.6,
+    "apg": 1.6,
+    "rpg": 3.1,
+    "id": 1642266
+  },
+  {
+    "name": "Jabari Smith Jr.",
+    "ppg": 12.2,
+    "apg": 1.1,
+    "rpg": 7,
+    "id": 1631095
+  },
+  {
+    "name": "Jabari Walker",
+    "ppg": 5.2,
+    "apg": 0.6,
+    "rpg": 3.5,
+    "id": 1631133
+  },
+  {
+    "name": "Jack McVeigh",
+    "ppg": 1.6,
+    "apg": 0.1,
+    "rpg": 0.6,
+    "id": 1629098
+  },
+  {
+    "name": "Jackson Rowe",
+    "ppg": 3.7,
+    "apg": 0.7,
+    "rpg": 1.8,
+    "id": 1642050
+  },
+  {
+    "name": "Jacob Toppin",
+    "ppg": 1.4,
+    "apg": 0.4,
+    "rpg": 0.9,
+    "id": 1631210
+  },
+  {
+    "name": "Jaden Hardy",
+    "ppg": 8.7,
+    "apg": 1.4,
+    "rpg": 1.6,
+    "id": 1630702
+  },
+  {
+    "name": "Jaden Ivey",
+    "ppg": 17.6,
+    "apg": 4,
+    "rpg": 4.1,
+    "id": 1631093
+  },
+  {
+    "name": "Jaden McDaniels",
+    "ppg": 12.2,
+    "apg": 2,
+    "rpg": 5.7,
+    "id": 1630183
+  },
+  {
+    "name": "Jaden Springer",
+    "ppg": 2.5,
+    "apg": 0.8,
+    "rpg": 1.3,
+    "id": 1630531
+  },
+  {
+    "name": "Jae Crowder",
+    "ppg": 2.6,
+    "apg": 0.7,
+    "rpg": 2.2,
+    "id": 203109
+  },
+  {
+    "name": "Jae'Sean Tate",
+    "ppg": 3.6,
+    "apg": 0.9,
+    "rpg": 2.3,
+    "id": 1630256
+  },
+  {
+    "name": "Jahlil Okafor",
+    "ppg": 0,
+    "apg": 1,
+    "rpg": 1,
+    "id": 1626143
+  },
+  {
+    "name": "Jahmir Young",
+    "ppg": 1.8,
+    "apg": 1,
+    "rpg": 0.5,
+    "id": 1642443
+  },
+  {
+    "name": "Jaime Jaquez Jr.",
+    "ppg": 8.6,
+    "apg": 2.5,
+    "rpg": 4.4,
+    "id": 1631170
+  },
+  {
+    "name": "Jake LaRavia",
+    "ppg": 6.9,
+    "apg": 2.4,
+    "rpg": 3.9,
+    "id": 1631222
+  },
+  {
+    "name": "Jakob Poeltl",
+    "ppg": 14.5,
+    "apg": 2.8,
+    "rpg": 9.6,
+    "id": 1627751
+  },
+  {
+    "name": "Jalen Bridges",
+    "ppg": 1.1,
+    "apg": 0,
+    "rpg": 0.5,
+    "id": 1641779
+  },
+  {
+    "name": "Jalen Brunson",
+    "ppg": 26,
+    "apg": 7.3,
+    "rpg": 2.9,
+    "id": 1628973
+  },
+  {
+    "name": "Jalen Duren",
+    "ppg": 11.8,
+    "apg": 2.7,
+    "rpg": 10.3,
+    "id": 1631105
+  },
+  {
+    "name": "Jalen Green",
+    "ppg": 21,
+    "apg": 3.4,
+    "rpg": 4.6,
+    "id": 1630224
+  },
+  {
+    "name": "Jalen Hood-Schifino",
+    "ppg": 7.1,
+    "apg": 2.5,
+    "rpg": 1.8,
+    "id": 1641720
+  },
+  {
+    "name": "Jalen Johnson",
+    "ppg": 18.9,
+    "apg": 5,
+    "rpg": 10,
+    "id": 1630552
+  },
+  {
+    "name": "Jalen McDaniels",
+    "ppg": 0,
+    "apg": 0.3,
+    "rpg": 0,
+    "id": 1629667
+  },
+  {
+    "name": "Jalen Pickett",
+    "ppg": 4.1,
+    "apg": 2.2,
+    "rpg": 1.4,
+    "id": 1629618
+  },
+  {
+    "name": "Jalen Smith",
+    "ppg": 8.2,
+    "apg": 1,
+    "rpg": 5.6,
+    "id": 1630188
+  },
+  {
+    "name": "Jalen Suggs",
+    "ppg": 16.2,
+    "apg": 3.7,
+    "rpg": 4,
+    "id": 1630591
+  },
+  {
+    "name": "Jalen Williams",
+    "ppg": 21.6,
+    "apg": 5.1,
+    "rpg": 5.3,
+    "id": 1631114
+  },
+  {
+    "name": "Jalen Wilson",
+    "ppg": 9.5,
+    "apg": 1.8,
+    "rpg": 3.4,
+    "id": 1630592
+  },
+  {
+    "name": "Jamal Cain",
+    "ppg": 5.3,
+    "apg": 0.6,
+    "rpg": 2.3,
+    "id": 1631288
+  },
+  {
+    "name": "Jamal Murray",
+    "ppg": 21.4,
+    "apg": 6,
+    "rpg": 3.9,
+    "id": 1627750
+  },
+  {
+    "name": "Jamal Shead",
+    "ppg": 7.1,
+    "apg": 4.2,
+    "rpg": 1.5,
+    "id": 1642347
+  },
+  {
+    "name": "Jamaree Bouyea",
+    "ppg": 3.4,
+    "apg": 2,
+    "rpg": 1,
+    "id": 1631123
+  },
+  {
+    "name": "James Harden",
+    "ppg": 22.8,
+    "apg": 8.7,
+    "rpg": 5.8,
+    "id": 201935
+  },
+  {
+    "name": "James Johnson",
+    "ppg": 0.7,
+    "apg": 0.3,
+    "rpg": 0.5,
+    "id": 201949
+  },
+  {
+    "name": "James Wiseman",
+    "ppg": 6,
+    "apg": 0,
+    "rpg": 1,
+    "id": 1630164
+  },
+  {
+    "name": "Jamison Battle",
+    "ppg": 7.1,
+    "apg": 0.9,
+    "rpg": 2.7,
+    "id": 1642419
+  },
+  {
+    "name": "Jarace Walker",
+    "ppg": 6.1,
+    "apg": 1.5,
+    "rpg": 3.1,
+    "id": 1641716
+  },
+  {
+    "name": "Jared Butler",
+    "ppg": 9,
+    "apg": 3.7,
+    "rpg": 1.8,
+    "id": 1630215
+  },
+  {
+    "name": "Jared McCain",
+    "ppg": 15.3,
+    "apg": 2.6,
+    "rpg": 2.4,
+    "id": 1642272
+  },
+  {
+    "name": "Jared Rhoden",
+    "ppg": 8.4,
+    "apg": 1.1,
+    "rpg": 3,
+    "id": 1631197
+  },
+  {
+    "name": "Jaren Jackson Jr.",
+    "ppg": 22.2,
+    "apg": 2,
+    "rpg": 5.6,
+    "id": 1628991
+  },
+  {
+    "name": "Jarred Vanderbilt",
+    "ppg": 4.1,
+    "apg": 1.1,
+    "rpg": 5.1,
+    "id": 1629020
+  },
+  {
+    "name": "Jarrett Allen",
+    "ppg": 13.5,
+    "apg": 1.9,
+    "rpg": 9.7,
+    "id": 1628386
+  },
+  {
+    "name": "Javonte Green",
+    "ppg": 5.1,
+    "apg": 0.8,
+    "rpg": 3.2,
+    "id": 1629750
+  },
+  {
+    "name": "Jaxson Hayes",
+    "ppg": 6.8,
+    "apg": 1,
+    "rpg": 4.8,
+    "id": 1629637
+  },
+  {
+    "name": "Jay Huff",
+    "ppg": 6.9,
+    "apg": 0.6,
+    "rpg": 2,
+    "id": 1630643
+  },
+  {
+    "name": "Jaylen Brown",
+    "ppg": 22.2,
+    "apg": 4.5,
+    "rpg": 5.8,
+    "id": 1627759
+  },
+  {
+    "name": "Jaylen Clark",
+    "ppg": 4.1,
+    "apg": 0.7,
+    "rpg": 1.3,
+    "id": 1641740
+  },
+  {
+    "name": "Jaylen Martin",
+    "ppg": 4.9,
+    "apg": 1.1,
+    "rpg": 2.8,
+    "id": 1641798
+  },
+  {
+    "name": "Jaylen Nowell",
+    "ppg": 8.4,
+    "apg": 2.3,
+    "rpg": 2.5,
+    "id": 1629669
+  },
+  {
+    "name": "Jaylen Sims",
+    "ppg": 7,
+    "apg": 2,
+    "rpg": 1,
+    "id": 1631301
+  },
+  {
+    "name": "Jaylen Wells",
+    "ppg": 10.4,
+    "apg": 1.7,
+    "rpg": 3.4,
+    "id": 1642377
+  },
+  {
+    "name": "Jaylin Williams",
+    "ppg": 5.9,
+    "apg": 2.6,
+    "rpg": 5.6,
+    "id": 1631119
+  },
+  {
+    "name": "Jaylon Tyson",
+    "ppg": 3.6,
+    "apg": 0.9,
+    "rpg": 2,
+    "id": 1642281
+  },
+  {
+    "name": "Jayson Tatum",
+    "ppg": 26.8,
+    "apg": 6,
+    "rpg": 8.7,
+    "id": 1628369
+  },
+  {
+    "name": "Jazian Gortman",
+    "ppg": 1.5,
+    "apg": 0.4,
+    "rpg": 0.3,
+    "id": 1641789
+  },
+  {
+    "name": "Jeff Dowtin Jr.",
+    "ppg": 7,
+    "apg": 1.9,
+    "rpg": 1.5,
+    "id": 1630288
+  },
+  {
+    "name": "Jeff Green",
+    "ppg": 5.4,
+    "apg": 0.6,
+    "rpg": 1.8,
+    "id": 201145
+  },
+  {
+    "name": "Jerami Grant",
+    "ppg": 14.4,
+    "apg": 2.1,
+    "rpg": 3.5,
+    "id": 203924
+  },
+  {
+    "name": "Jeremiah Robinson-Earl",
+    "ppg": 6.3,
+    "apg": 1.3,
+    "rpg": 4.8,
+    "id": 1630526
+  },
+  {
+    "name": "Jeremy Sochan",
+    "ppg": 11.4,
+    "apg": 2.4,
+    "rpg": 6.5,
+    "id": 1631110
+  },
+  {
+    "name": "Jericho Sims",
+    "ppg": 1.8,
+    "apg": 0.6,
+    "rpg": 3.7,
+    "id": 1630579
+  },
+  {
+    "name": "Jesse Edwards",
+    "ppg": 0,
+    "apg": 0.5,
+    "rpg": 0,
+    "id": 1642399
+  },
+  {
+    "name": "Jett Howard",
+    "ppg": 4.5,
+    "apg": 0.7,
+    "rpg": 1.2,
+    "id": 1641724
+  },
+  {
+    "name": "Jevon Carter",
+    "ppg": 4.3,
+    "apg": 1.1,
+    "rpg": 1.1,
+    "id": 1628975
+  },
+  {
+    "name": "Jimmy Butler III",
+    "ppg": 17.5,
+    "apg": 5.4,
+    "rpg": 5.4,
+    "id": 202710
+  },
+  {
+    "name": "Jock Landale",
+    "ppg": 4.8,
+    "apg": 0.9,
+    "rpg": 3.3,
+    "id": 1629111
+  },
+  {
+    "name": "Joe Ingles",
+    "ppg": 0.8,
+    "apg": 1.2,
+    "rpg": 0.6,
+    "id": 204060
+  },
+  {
+    "name": "Joel Embiid",
+    "ppg": 23.8,
+    "apg": 4.5,
+    "rpg": 8.2,
+    "id": 203954
+  },
+  {
+    "name": "John Collins",
+    "ppg": 19,
+    "apg": 2,
+    "rpg": 8.2,
+    "id": 1628381
+  },
+  {
+    "name": "John Konchar",
+    "ppg": 2.4,
+    "apg": 0.9,
+    "rpg": 3.3,
+    "id": 1629723
+  },
+  {
+    "name": "Johnny Davis",
+    "ppg": 2.4,
+    "apg": 0.3,
+    "rpg": 1.1,
+    "id": 1631098
+  },
+  {
+    "name": "Johnny Furphy",
+    "ppg": 2.1,
+    "apg": 0.4,
+    "rpg": 1.4,
+    "id": 1642277
+  },
+  {
+    "name": "Johnny Juzang",
+    "ppg": 8.9,
+    "apg": 1.1,
+    "rpg": 2.9,
+    "id": 1630548
+  },
+  {
+    "name": "Jonas Valančiūnas",
+    "ppg": 10.4,
+    "apg": 2,
+    "rpg": 7.7,
+    "id": 202685
+  },
+  {
+    "name": "Jonathan Isaac",
+    "ppg": 5.4,
+    "apg": 0.6,
+    "rpg": 4.4,
+    "id": 1628371
+  },
+  {
+    "name": "Jonathan Kuminga",
+    "ppg": 15.3,
+    "apg": 2.2,
+    "rpg": 4.6,
+    "id": 1630228
+  },
+  {
+    "name": "Jonathan Mogbo",
+    "ppg": 6.2,
+    "apg": 2.3,
+    "rpg": 4.9,
+    "id": 1642367
+  },
+  {
+    "name": "Jordan Clarkson",
+    "ppg": 16.2,
+    "apg": 3.7,
+    "rpg": 3.2,
+    "id": 203903
+  },
+  {
+    "name": "Jordan Goodwin",
+    "ppg": 5.6,
+    "apg": 1.4,
+    "rpg": 3.9,
+    "id": 1630692
+  },
+  {
+    "name": "Jordan Hawkins",
+    "ppg": 10.8,
+    "apg": 1.2,
+    "rpg": 2.8,
+    "id": 1641722
+  },
+  {
+    "name": "Jordan McLaughlin",
+    "ppg": 2.1,
+    "apg": 1.1,
+    "rpg": 0.7,
+    "id": 1629162
+  },
+  {
+    "name": "Jordan Miller",
+    "ppg": 4.1,
+    "apg": 0.9,
+    "rpg": 1.6,
+    "id": 1641757
+  },
+  {
+    "name": "Jordan Poole",
+    "ppg": 20.5,
+    "apg": 4.5,
+    "rpg": 3,
+    "id": 1629673
+  },
+  {
+    "name": "Jordan Walsh",
+    "ppg": 1.6,
+    "apg": 0.4,
+    "rpg": 1.3,
+    "id": 1641775
+  },
+  {
+    "name": "Jose Alvarado",
+    "ppg": 10.3,
+    "apg": 4.6,
+    "rpg": 2.4,
+    "id": 1630631
+  },
+  {
+    "name": "Josh Christopher",
+    "ppg": 2,
+    "apg": 0.6,
+    "rpg": 0.6,
+    "id": 1630528
+  },
+  {
+    "name": "Josh Giddey",
+    "ppg": 14.6,
+    "apg": 7.2,
+    "rpg": 8.1,
+    "id": 1630581
+  },
+  {
+    "name": "Josh Green",
+    "ppg": 7.4,
+    "apg": 1.6,
+    "rpg": 2.5,
+    "id": 1630182
+  },
+  {
+    "name": "Josh Hart",
+    "ppg": 13.6,
+    "apg": 5.9,
+    "rpg": 9.6,
+    "id": 1628404
+  },
+  {
+    "name": "Josh Minott",
+    "ppg": 2.6,
+    "apg": 0.4,
+    "rpg": 1,
+    "id": 1631169
+  },
+  {
+    "name": "Josh Okogie",
+    "ppg": 7.1,
+    "apg": 0.8,
+    "rpg": 2.8,
+    "id": 1629006
+  },
+  {
+    "name": "Josh Richardson",
+    "ppg": 4,
+    "apg": 1.5,
+    "rpg": 1.5,
+    "id": 1626196
+  },
+  {
+    "name": "Jrue Holiday",
+    "ppg": 11.1,
+    "apg": 3.9,
+    "rpg": 4.3,
+    "id": 201950
+  },
+  {
+    "name": "Julian Champagnie",
+    "ppg": 9.9,
+    "apg": 1.4,
+    "rpg": 3.9,
+    "id": 1630577
+  },
+  {
+    "name": "Julian Phillips",
+    "ppg": 4.6,
+    "apg": 0.5,
+    "rpg": 2.1,
+    "id": 1641763
+  },
+  {
+    "name": "Julian Strawther",
+    "ppg": 9,
+    "apg": 1.3,
+    "rpg": 2.2,
+    "id": 1631124
+  },
+  {
+    "name": "Julius Randle",
+    "ppg": 18.7,
+    "apg": 4.7,
+    "rpg": 7.1,
+    "id": 203944
+  },
+  {
+    "name": "Justin Champagnie",
+    "ppg": 8.8,
+    "apg": 1,
+    "rpg": 5.7,
+    "id": 1630551
+  },
+  {
+    "name": "Justin Edwards",
+    "ppg": 10.1,
+    "apg": 1.6,
+    "rpg": 3.4,
+    "id": 1642348
+  },
+  {
+    "name": "Justin Minaya",
+    "ppg": 0.9,
+    "apg": 0.4,
+    "rpg": 0.5,
+    "id": 1631303
+  },
+  {
+    "name": "Jusuf Nurkić",
+    "ppg": 8.9,
+    "apg": 2.3,
+    "rpg": 7.8,
+    "id": 203994
+  },
+  {
+    "name": "KJ Martin",
+    "ppg": 6.4,
+    "apg": 1.1,
+    "rpg": 2.9,
+    "id": 1630231
+  },
+  {
+    "name": "KJ Simpson",
+    "ppg": 7.8,
+    "apg": 3.1,
+    "rpg": 3,
+    "id": 1642354
+  },
+  {
+    "name": "Kai Jones",
+    "ppg": 5,
+    "apg": 0.6,
+    "rpg": 3.1,
+    "id": 1630539
+  },
+  {
+    "name": "Karl-Anthony Towns",
+    "ppg": 24.4,
+    "apg": 3.1,
+    "rpg": 12.8,
+    "id": 1626157
+  },
+  {
+    "name": "Karlo Matković",
+    "ppg": 7.7,
+    "apg": 1.1,
+    "rpg": 5,
+    "id": 1631255
+  },
+  {
+    "name": "Kawhi Leonard",
+    "ppg": 21.5,
+    "apg": 3.1,
+    "rpg": 5.9,
+    "id": 202695
+  },
+  {
+    "name": "Keaton Wallace",
+    "ppg": 5.4,
+    "apg": 2.6,
+    "rpg": 1.6,
+    "id": 1630811
+  },
+  {
+    "name": "Keegan Murray",
+    "ppg": 12.4,
+    "apg": 1.4,
+    "rpg": 6.7,
+    "id": 1631099
+  },
+  {
+    "name": "Keion Brooks Jr.",
+    "ppg": 10.1,
+    "apg": 0.9,
+    "rpg": 4.1,
+    "id": 1631232
+  },
+  {
+    "name": "Kel'el Ware",
+    "ppg": 9.3,
+    "apg": 0.9,
+    "rpg": 7.4,
+    "id": 1642276
+  },
+  {
+    "name": "Keldon Johnson",
+    "ppg": 12.7,
+    "apg": 1.6,
+    "rpg": 4.8,
+    "id": 1629640
+  },
+  {
+    "name": "Kelly Olynyk",
+    "ppg": 8.7,
+    "apg": 2.9,
+    "rpg": 4.7,
+    "id": 203482
+  },
+  {
+    "name": "Kelly Oubre Jr.",
+    "ppg": 15.1,
+    "apg": 1.8,
+    "rpg": 6.1,
+    "id": 1626162
+  },
+  {
+    "name": "Kenrich Williams",
+    "ppg": 6.3,
+    "apg": 1.4,
+    "rpg": 3.5,
+    "id": 1629026
+  },
+  {
+    "name": "Kentavious Caldwell-Pope",
+    "ppg": 8.7,
+    "apg": 1.8,
+    "rpg": 2.2,
+    "id": 203484
+  },
+  {
+    "name": "Keon Ellis",
+    "ppg": 8.3,
+    "apg": 1.5,
+    "rpg": 2.7,
+    "id": 1631165
+  },
+  {
+    "name": "Keon Johnson",
+    "ppg": 10.6,
+    "apg": 2.2,
+    "rpg": 3.8,
+    "id": 1630553
+  },
+  {
+    "name": "Keshad Johnson",
+    "ppg": 2.7,
+    "apg": 0.3,
+    "rpg": 1.8,
+    "id": 1642352
+  },
+  {
+    "name": "Kessler Edwards",
+    "ppg": 4.2,
+    "apg": 1.1,
+    "rpg": 2.9,
+    "id": 1630556
+  },
+  {
+    "name": "Kevin Durant",
+    "ppg": 26.6,
+    "apg": 4.2,
+    "rpg": 6,
+    "id": 201142
+  },
+  {
+    "name": "Kevin Huerter",
+    "ppg": 9.9,
+    "apg": 2.3,
+    "rpg": 3,
+    "id": 1628989
+  },
+  {
+    "name": "Kevin Knox II",
+    "ppg": 3.3,
+    "apg": 0.4,
+    "rpg": 1.2,
+    "id": 1628995
+  },
+  {
+    "name": "Kevin Love",
+    "ppg": 5.3,
+    "apg": 1,
+    "rpg": 4.1,
+    "id": 201567
+  },
+  {
+    "name": "Kevin McCullar Jr.",
+    "ppg": 1.5,
+    "apg": 0.5,
+    "rpg": 2,
+    "id": 1641755
+  },
+  {
+    "name": "Kevin Porter Jr.",
+    "ppg": 10.3,
+    "apg": 3.4,
+    "rpg": 3.7,
+    "id": 1629645
+  },
+  {
+    "name": "Kevon Looney",
+    "ppg": 4.5,
+    "apg": 1.6,
+    "rpg": 6.1,
+    "id": 1626172
+  },
+  {
+    "name": "Keyonte George",
+    "ppg": 16.8,
+    "apg": 5.6,
+    "rpg": 3.8,
+    "id": 1641718
+  },
+  {
+    "name": "Khris Middleton",
+    "ppg": 11.9,
+    "apg": 4.1,
+    "rpg": 3.7,
+    "id": 203114
+  },
+  {
+    "name": "Killian Hayes",
+    "ppg": 9,
+    "apg": 5.2,
+    "rpg": 3,
+    "id": 1630165
+  },
+  {
+    "name": "Klay Thompson",
+    "ppg": 14,
+    "apg": 2,
+    "rpg": 3.4,
+    "id": 202691
+  },
+  {
+    "name": "Kobe Brown",
+    "ppg": 1.9,
+    "apg": 0.6,
+    "rpg": 1.6,
+    "id": 1641738
+  },
+  {
+    "name": "Kobe Bufkin",
+    "ppg": 5.3,
+    "apg": 1.7,
+    "rpg": 2.1,
+    "id": 1641723
+  },
+  {
+    "name": "Kris Dunn",
+    "ppg": 6.4,
+    "apg": 2.8,
+    "rpg": 3.4,
+    "id": 1627739
+  },
+  {
+    "name": "Kris Murray",
+    "ppg": 4.2,
+    "apg": 1,
+    "rpg": 2.6,
+    "id": 1631200
+  },
+  {
+    "name": "Kristaps Porziņģis",
+    "ppg": 19.5,
+    "apg": 2.1,
+    "rpg": 6.8,
+    "id": 204001
+  },
+  {
+    "name": "Kyle Anderson",
+    "ppg": 5.9,
+    "apg": 2.4,
+    "rpg": 3.4,
+    "id": 203937
+  },
+  {
+    "name": "Kyle Filipowski",
+    "ppg": 9.6,
+    "apg": 1.9,
+    "rpg": 6.1,
+    "id": 1642271
+  },
+  {
+    "name": "Kyle Kuzma",
+    "ppg": 14.8,
+    "apg": 2.3,
+    "rpg": 5.7,
+    "id": 1628398
+  },
+  {
+    "name": "Kyle Lowry",
+    "ppg": 3.9,
+    "apg": 2.7,
+    "rpg": 1.9,
+    "id": 200768
+  },
+  {
+    "name": "Kylor Kelley",
+    "ppg": 3.1,
+    "apg": 0.5,
+    "rpg": 3.5,
+    "id": 1630283
+  },
+  {
+    "name": "Kyrie Irving",
+    "ppg": 24.7,
+    "apg": 4.6,
+    "rpg": 4.8,
+    "id": 202681
+  },
+  {
+    "name": "Kyshawn George",
+    "ppg": 8.7,
+    "apg": 2.5,
+    "rpg": 4.2,
+    "id": 1642273
+  },
+  {
+    "name": "LaMelo Ball",
+    "ppg": 25.2,
+    "apg": 7.4,
+    "rpg": 4.9,
+    "id": 1630163
+  },
+  {
+    "name": "Lamar Stevens",
+    "ppg": 4.4,
+    "apg": 0.5,
+    "rpg": 2.2,
+    "id": 1630205
+  },
+  {
+    "name": "Landry Shamet",
+    "ppg": 5.7,
+    "apg": 0.5,
+    "rpg": 1.2,
+    "id": 1629013
+  },
+  {
+    "name": "Larry Nance Jr.",
+    "ppg": 8.5,
+    "apg": 1.6,
+    "rpg": 4.3,
+    "id": 1626204
+  },
+  {
+    "name": "Lauri Markkanen",
+    "ppg": 19,
+    "apg": 1.5,
+    "rpg": 5.9,
+    "id": 1628374
+  },
+  {
+    "name": "LeBron James",
+    "ppg": 24.4,
+    "apg": 8.2,
+    "rpg": 7.8,
+    "id": 2544
+  },
+  {
+    "name": "Leonard Miller",
+    "ppg": 1.5,
+    "apg": 0,
+    "rpg": 0.8,
+    "id": 1631159
+  },
+  {
+    "name": "Lester Quinones",
+    "ppg": 6.6,
+    "apg": 1.8,
+    "rpg": 1.5,
+    "id": 1631311
+  },
+  {
+    "name": "Liam Robbins",
+    "ppg": 0.7,
+    "apg": 0.2,
+    "rpg": 0.9,
+    "id": 1641857
+  },
+  {
+    "name": "Lindy Waters III",
+    "ppg": 4.9,
+    "apg": 1,
+    "rpg": 2.1,
+    "id": 1630322
+  },
+  {
+    "name": "Lonnie Walker IV",
+    "ppg": 12.4,
+    "apg": 2.5,
+    "rpg": 3.2,
+    "id": 1629022
+  },
+  {
+    "name": "Lonzo Ball",
+    "ppg": 7.6,
+    "apg": 3.3,
+    "rpg": 3.4,
+    "id": 1628366
+  },
+  {
+    "name": "Luguentz Dort",
+    "ppg": 10.1,
+    "apg": 1.6,
+    "rpg": 4.1,
+    "id": 1629652
+  },
+  {
+    "name": "Luka Dončić",
+    "ppg": 28.2,
+    "apg": 7.7,
+    "rpg": 8.2,
+    "id": 1629029
+  },
+  {
+    "name": "Luka Garza",
+    "ppg": 3.5,
+    "apg": 0.3,
+    "rpg": 1.4,
+    "id": 1630568
+  },
+  {
+    "name": "Luke Kennard",
+    "ppg": 8.9,
+    "apg": 3.3,
+    "rpg": 2.8,
+    "id": 1628379
+  },
+  {
+    "name": "Luke Kornet",
+    "ppg": 6,
+    "apg": 1.6,
+    "rpg": 5.3,
+    "id": 1628436
+  },
+  {
+    "name": "Luke Travers",
+    "ppg": 1,
+    "apg": 0.7,
+    "rpg": 1.7,
+    "id": 1631247
+  },
+  {
+    "name": "Mac McClung",
+    "ppg": 0,
+    "apg": 1.5,
+    "rpg": 0.5,
+    "id": 1630644
+  },
+  {
+    "name": "Malachi Flynn",
+    "ppg": 4,
+    "apg": 1.8,
+    "rpg": 1.8,
+    "id": 1630201
+  },
+  {
+    "name": "Malaki Branham",
+    "ppg": 5,
+    "apg": 0.8,
+    "rpg": 1.1,
+    "id": 1631103
+  },
+  {
+    "name": "Malcolm Brogdon",
+    "ppg": 12.7,
+    "apg": 4.1,
+    "rpg": 3.8,
+    "id": 1627763
+  },
+  {
+    "name": "Malevy Leons",
+    "ppg": 0.3,
+    "apg": 0.2,
+    "rpg": 0.5,
+    "id": 1642502
+  },
+  {
+    "name": "Malik Beasley",
+    "ppg": 16.3,
+    "apg": 1.7,
+    "rpg": 2.6,
+    "id": 1627736
+  },
+  {
+    "name": "Malik Monk",
+    "ppg": 17.2,
+    "apg": 5.6,
+    "rpg": 3.8,
+    "id": 1628370
+  },
+  {
+    "name": "MarJon Beauchamp",
+    "ppg": 2.3,
+    "apg": 0.3,
+    "rpg": 1.3,
+    "id": 1630699
+  },
+  {
+    "name": "Marcus Bagley",
+    "ppg": 6.7,
+    "apg": 1,
+    "rpg": 7,
+    "id": 1630542
+  },
+  {
+    "name": "Marcus Garrett",
+    "ppg": 7,
+    "apg": 3.3,
+    "rpg": 1.5,
+    "id": 1630585
+  },
+  {
+    "name": "Marcus Sasser",
+    "ppg": 6.6,
+    "apg": 2.3,
+    "rpg": 1.2,
+    "id": 1631204
+  },
+  {
+    "name": "Marcus Smart",
+    "ppg": 9,
+    "apg": 3.2,
+    "rpg": 2.1,
+    "id": 203935
+  },
+  {
+    "name": "Mark Williams",
+    "ppg": 15.3,
+    "apg": 2.5,
+    "rpg": 10.2,
+    "id": 1631109
+  },
+  {
+    "name": "Markelle Fultz",
+    "ppg": 2.9,
+    "apg": 1.3,
+    "rpg": 1,
+    "id": 1628365
+  },
+  {
+    "name": "Markieff Morris",
+    "ppg": 3.7,
+    "apg": 1.4,
+    "rpg": 1.5,
+    "id": 202693
+  },
+  {
+    "name": "Marvin Bagley III",
+    "ppg": 4.4,
+    "apg": 0.4,
+    "rpg": 2.7,
+    "id": 1628963
+  },
+  {
+    "name": "Mason Jones",
+    "ppg": 2.3,
+    "apg": 1.1,
+    "rpg": 0.9,
+    "id": 1630222
+  },
+  {
+    "name": "Mason Plumlee",
+    "ppg": 4.5,
+    "apg": 1.8,
+    "rpg": 6.1,
+    "id": 203486
+  },
+  {
+    "name": "Matas Buzelis",
+    "ppg": 8.6,
+    "apg": 1,
+    "rpg": 3.5,
+    "id": 1641824
+  },
+  {
+    "name": "Matisse Thybulle",
+    "ppg": 7.5,
+    "apg": 1.9,
+    "rpg": 3.5,
+    "id": 1629680
+  },
+  {
+    "name": "Matt Ryan",
+    "ppg": 1.5,
+    "apg": 0.2,
+    "rpg": 0.4,
+    "id": 1630346
+  },
+  {
+    "name": "Max Christie",
+    "ppg": 9.6,
+    "apg": 1.9,
+    "rpg": 3.3,
+    "id": 1631108
+  },
+  {
+    "name": "Max Strus",
+    "ppg": 9.4,
+    "apg": 3.2,
+    "rpg": 4.3,
+    "id": 1629622
+  },
+  {
+    "name": "Maxi Kleber",
+    "ppg": 3,
+    "apg": 1.3,
+    "rpg": 2.8,
+    "id": 1628467
+  },
+  {
+    "name": "Maxwell Lewis",
+    "ppg": 4.1,
+    "apg": 0.7,
+    "rpg": 2,
+    "id": 1641721
+  },
+  {
+    "name": "Micah Potter",
+    "ppg": 4.3,
+    "apg": 0.8,
+    "rpg": 4.3,
+    "id": 1630695
+  },
+  {
+    "name": "Michael Porter Jr.",
+    "ppg": 18.2,
+    "apg": 2.1,
+    "rpg": 7,
+    "id": 1629008
+  },
+  {
+    "name": "Mikal Bridges",
+    "ppg": 17.6,
+    "apg": 3.7,
+    "rpg": 3.2,
+    "id": 1628969
+  },
+  {
+    "name": "Mike Conley",
+    "ppg": 8.2,
+    "apg": 4.5,
+    "rpg": 2.6,
+    "id": 201144
+  },
+  {
+    "name": "Miles Bridges",
+    "ppg": 20.3,
+    "apg": 3.9,
+    "rpg": 7.5,
+    "id": 1628970
+  },
+  {
+    "name": "Miles McBride",
+    "ppg": 9.5,
+    "apg": 2.9,
+    "rpg": 2.5,
+    "id": 1630540
+  },
+  {
+    "name": "Miles Norris",
+    "ppg": 2.3,
+    "apg": 0,
+    "rpg": 3,
+    "id": 1641936
+  },
+  {
+    "name": "Mitchell Robinson",
+    "ppg": 5.1,
+    "apg": 0.8,
+    "rpg": 5.9,
+    "id": 1629011
+  },
+  {
+    "name": "Mo Bamba",
+    "ppg": 4.3,
+    "apg": 0.6,
+    "rpg": 4.5,
+    "id": 1628964
+  },
+  {
+    "name": "Monte Morris",
+    "ppg": 5.2,
+    "apg": 1.6,
+    "rpg": 1.5,
+    "id": 1628420
+  },
+  {
+    "name": "Moritz Wagner",
+    "ppg": 12.9,
+    "apg": 1.4,
+    "rpg": 4.9,
+    "id": 1629021
+  },
+  {
+    "name": "Moses Brown",
+    "ppg": 5.8,
+    "apg": 0.2,
+    "rpg": 3.4,
+    "id": 1629650
+  },
+  {
+    "name": "Moses Moody",
+    "ppg": 9.8,
+    "apg": 1.3,
+    "rpg": 2.6,
+    "id": 1630541
+  },
+  {
+    "name": "Mouhamed Gueye",
+    "ppg": 6,
+    "apg": 0.8,
+    "rpg": 4.2,
+    "id": 1631243
+  },
+  {
+    "name": "Moussa Diabaté",
+    "ppg": 5.7,
+    "apg": 0.8,
+    "rpg": 6.2,
+    "id": 1631217
+  },
+  {
+    "name": "Myles Turner",
+    "ppg": 15.6,
+    "apg": 1.5,
+    "rpg": 6.5,
+    "id": 1626167
+  },
+  {
+    "name": "N'Faly Dante",
+    "ppg": 6,
+    "apg": 0.5,
+    "rpg": 5.3,
+    "id": 1642368
+  },
+  {
+    "name": "Nae'Qwan Tomlin",
+    "ppg": 7.2,
+    "apg": 0.4,
+    "rpg": 4.2,
+    "id": 1641772
+  },
+  {
+    "name": "Naji Marshall",
+    "ppg": 13.2,
+    "apg": 3,
+    "rpg": 4.8,
+    "id": 1630230
+  },
+  {
+    "name": "Nate Williams",
+    "ppg": 3.3,
+    "apg": 0.5,
+    "rpg": 0.7,
+    "id": 1631466
+  },
+  {
+    "name": "Naz Reid",
+    "ppg": 14.2,
+    "apg": 2.3,
+    "rpg": 6,
+    "id": 1629675
+  },
+  {
+    "name": "Neemias Queta",
+    "ppg": 5,
+    "apg": 0.7,
+    "rpg": 3.8,
+    "id": 1629674
+  },
+  {
+    "name": "Nic Claxton",
+    "ppg": 10.3,
+    "apg": 2.2,
+    "rpg": 7.4,
+    "id": 1629651
+  },
+  {
+    "name": "Nick Richards",
+    "ppg": 9.3,
+    "apg": 0.9,
+    "rpg": 8.2,
+    "id": 1630208
+  },
+  {
+    "name": "Nick Smith Jr.",
+    "ppg": 9.9,
+    "apg": 2.4,
+    "rpg": 2.1,
+    "id": 1641733
+  },
+  {
+    "name": "Nickeil Alexander-Walker",
+    "ppg": 9.4,
+    "apg": 2.7,
+    "rpg": 3.2,
+    "id": 1629638
+  },
+  {
+    "name": "Nicolas Batum",
+    "ppg": 4,
+    "apg": 1.1,
+    "rpg": 2.8,
+    "id": 201587
+  },
+  {
+    "name": "Nikola Jokić",
+    "ppg": 29.6,
+    "apg": 10.2,
+    "rpg": 12.7,
+    "id": 203999
+  },
+  {
+    "name": "Nikola Jović",
+    "ppg": 10.7,
+    "apg": 2.8,
+    "rpg": 3.9,
+    "id": 1631107
+  },
+  {
+    "name": "Nikola Vučević",
+    "ppg": 18.5,
+    "apg": 3.5,
+    "rpg": 10.1,
+    "id": 202696
+  },
+  {
+    "name": "Noah Clowney",
+    "ppg": 9.1,
+    "apg": 0.9,
+    "rpg": 3.9,
+    "id": 1641730
+  },
+  {
+    "name": "Norman Powell",
+    "ppg": 21.8,
+    "apg": 2.1,
+    "rpg": 3.2,
+    "id": 1626181
+  },
+  {
+    "name": "OG Anunoby",
+    "ppg": 18,
+    "apg": 2.2,
+    "rpg": 4.8,
+    "id": 1628384
+  },
+  {
+    "name": "Obi Toppin",
+    "ppg": 10.5,
+    "apg": 1.6,
+    "rpg": 4,
+    "id": 1630167
+  },
+  {
+    "name": "Ochai Agbaji",
+    "ppg": 10.4,
+    "apg": 1.5,
+    "rpg": 3.8,
+    "id": 1630534
+  },
+  {
+    "name": "Olivier-Maxence Prosper",
+    "ppg": 3.9,
+    "apg": 0.8,
+    "rpg": 2.4,
+    "id": 1641765
+  },
+  {
+    "name": "Onyeka Okongwu",
+    "ppg": 13.4,
+    "apg": 2.3,
+    "rpg": 8.9,
+    "id": 1630168
+  },
+  {
+    "name": "Orlando Robinson",
+    "ppg": 6.9,
+    "apg": 1.8,
+    "rpg": 5,
+    "id": 1631115
+  },
+  {
+    "name": "Oscar Tshiebwe",
+    "ppg": 7.6,
+    "apg": 0.6,
+    "rpg": 8.7,
+    "id": 1631131
+  },
+  {
+    "name": "Oshae Brissett",
+    "ppg": 8.7,
+    "apg": 0.7,
+    "rpg": 3.7,
+    "id": 1629052
+  },
+  {
+    "name": "Oso Ighodaro",
+    "ppg": 4.2,
+    "apg": 1.2,
+    "rpg": 3.6,
+    "id": 1642345
+  },
+  {
+    "name": "Ousmane Dieng",
+    "ppg": 3.8,
+    "apg": 0.8,
+    "rpg": 2.2,
+    "id": 1631172
+  },
+  {
+    "name": "P.J. Tucker",
+    "ppg": 3,
+    "apg": 0,
+    "rpg": 2.7,
+    "id": 200782
+  },
+  {
+    "name": "P.J. Washington",
+    "ppg": 14.7,
+    "apg": 2.3,
+    "rpg": 7.8,
+    "id": 1629023
+  },
+  {
+    "name": "PJ Dozier",
+    "ppg": 0.8,
+    "apg": 0.6,
+    "rpg": 0.6,
+    "id": 1628408
+  },
+  {
+    "name": "PJ Hall",
+    "ppg": 1.7,
+    "apg": 0.2,
+    "rpg": 1.2,
+    "id": 1641790
+  },
+  {
+    "name": "Pacôme Dadiet",
+    "ppg": 1.7,
+    "apg": 0.3,
+    "rpg": 1,
+    "id": 1642359
+  },
+  {
+    "name": "Paolo Banchero",
+    "ppg": 25.9,
+    "apg": 4.8,
+    "rpg": 7.5,
+    "id": 1631094
+  },
+  {
+    "name": "Pascal Siakam",
+    "ppg": 20.2,
+    "apg": 3.4,
+    "rpg": 6.9,
+    "id": 1627783
+  },
+  {
+    "name": "Pat Connaughton",
+    "ppg": 5.3,
+    "apg": 1.7,
+    "rpg": 2.7,
+    "id": 1626192
+  },
+  {
+    "name": "Pat Spencer",
+    "ppg": 2.5,
+    "apg": 1.2,
+    "rpg": 1.2,
+    "id": 1630311
+  },
+  {
+    "name": "Patrick Baldwin Jr.",
+    "ppg": 2.2,
+    "apg": 0.1,
+    "rpg": 1,
+    "id": 1631116
+  },
+  {
+    "name": "Patrick Williams",
+    "ppg": 9,
+    "apg": 2,
+    "rpg": 3.8,
+    "id": 1630172
+  },
+  {
+    "name": "Patty Mills",
+    "ppg": 3.8,
+    "apg": 0.9,
+    "rpg": 0.8,
+    "id": 201988
+  },
+  {
+    "name": "Paul George",
+    "ppg": 16.2,
+    "apg": 4.3,
+    "rpg": 5.3,
+    "id": 202331
+  },
+  {
+    "name": "Paul Reed",
+    "ppg": 4.1,
+    "apg": 1,
+    "rpg": 2.7,
+    "id": 1630194
+  },
+  {
+    "name": "Payton Pritchard",
+    "ppg": 14.3,
+    "apg": 3.5,
+    "rpg": 3.8,
+    "id": 1630202
+  },
+  {
+    "name": "Pelle Larsson",
+    "ppg": 4.6,
+    "apg": 1.2,
+    "rpg": 1.7,
+    "id": 1641796
+  },
+  {
+    "name": "Pete Nance",
+    "ppg": 2.9,
+    "apg": 0.8,
+    "rpg": 1.6,
+    "id": 1631250
+  },
+  {
+    "name": "Peyton Watson",
+    "ppg": 8.1,
+    "apg": 1.4,
+    "rpg": 3.4,
+    "id": 1631212
+  },
+  {
+    "name": "Phillip Wheeler",
+    "ppg": 1.6,
+    "apg": 0.4,
+    "rpg": 1.6,
+    "id": 1630762
+  },
+  {
+    "name": "Precious Achiuwa",
+    "ppg": 6.6,
+    "apg": 1,
+    "rpg": 5.6,
+    "id": 1630173
+  },
+  {
+    "name": "Quentin Grimes",
+    "ppg": 14.6,
+    "apg": 3,
+    "rpg": 4.3,
+    "id": 1629656
+  },
+  {
+    "name": "Quenton Jackson",
+    "ppg": 5.8,
+    "apg": 1.9,
+    "rpg": 1.6,
+    "id": 1631245
+  },
+  {
+    "name": "Quincy Olivari",
+    "ppg": 1.5,
+    "apg": 0.5,
+    "rpg": 0,
+    "id": 1642439
+  },
+  {
+    "name": "Quinten Post",
+    "ppg": 8.1,
+    "apg": 1.3,
+    "rpg": 3.5,
+    "id": 1642366
+  },
+  {
+    "name": "RJ Barrett",
+    "ppg": 21.1,
+    "apg": 5.4,
+    "rpg": 6.3,
+    "id": 1629628
+  },
+  {
+    "name": "RayJ Dennis",
+    "ppg": 2.7,
+    "apg": 1.3,
+    "rpg": 1.1,
+    "id": 1642484
+  },
+  {
+    "name": "Rayan Rupert",
+    "ppg": 3,
+    "apg": 0.5,
+    "rpg": 1.3,
+    "id": 1641712
+  },
+  {
+    "name": "Reece Beekman",
+    "ppg": 2.6,
+    "apg": 1.8,
+    "rpg": 1.1,
+    "id": 1641736
+  },
+  {
+    "name": "Reed Sheppard",
+    "ppg": 4.4,
+    "apg": 1.4,
+    "rpg": 1.5,
+    "id": 1642263
+  },
+  {
+    "name": "Reggie Jackson",
+    "ppg": 4.4,
+    "apg": 1.5,
+    "rpg": 1.4,
+    "id": 202704
+  },
+  {
+    "name": "Richaun Holmes",
+    "ppg": 7.4,
+    "apg": 1.4,
+    "rpg": 5.7,
+    "id": 1626158
+  },
+  {
+    "name": "Ricky Council IV",
+    "ppg": 7.3,
+    "apg": 1.3,
+    "rpg": 2.9,
+    "id": 1641741
+  },
+  {
+    "name": "Riley Minix",
+    "ppg": 0,
+    "apg": 0,
+    "rpg": 2,
+    "id": 1642434
+  },
+  {
+    "name": "Rob Dillingham",
+    "ppg": 4.5,
+    "apg": 2,
+    "rpg": 1,
+    "id": 1642265
+  },
+  {
+    "name": "Robert Williams III",
+    "ppg": 5.8,
+    "apg": 1.1,
+    "rpg": 5.9,
+    "id": 1629057
+  },
+  {
+    "name": "Ron Harper Jr.",
+    "ppg": 4,
+    "apg": 2,
+    "rpg": 7,
+    "id": 1631199
+  },
+  {
+    "name": "Ronald Holland II",
+    "ppg": 6.4,
+    "apg": 1,
+    "rpg": 2.7,
+    "id": 1641842
+  },
+  {
+    "name": "Royce O'Neale",
+    "ppg": 9.1,
+    "apg": 2.2,
+    "rpg": 4.7,
+    "id": 1626220
+  },
+  {
+    "name": "Rudy Gobert",
+    "ppg": 12,
+    "apg": 1.8,
+    "rpg": 10.9,
+    "id": 203497
+  },
+  {
+    "name": "Rui Hachimura",
+    "ppg": 13.1,
+    "apg": 1.4,
+    "rpg": 5,
+    "id": 1629060
+  },
+  {
+    "name": "Russell Westbrook",
+    "ppg": 13.3,
+    "apg": 6.1,
+    "rpg": 4.9,
+    "id": 201566
+  },
+  {
+    "name": "Ryan Dunn",
+    "ppg": 6.9,
+    "apg": 0.8,
+    "rpg": 3.6,
+    "id": 1642346
+  },
+  {
+    "name": "Ryan Rollins",
+    "ppg": 6.2,
+    "apg": 1.9,
+    "rpg": 1.9,
+    "id": 1631157
+  },
+  {
+    "name": "Sam Hauser",
+    "ppg": 8.5,
+    "apg": 0.9,
+    "rpg": 3.2,
+    "id": 1630573
+  },
+  {
+    "name": "Sam Merrill",
+    "ppg": 7.2,
+    "apg": 1.5,
+    "rpg": 2.2,
+    "id": 1630241
+  },
+  {
+    "name": "Sandro Mamukelashvili",
+    "ppg": 6.3,
+    "apg": 0.8,
+    "rpg": 3.1,
+    "id": 1630572
+  },
+  {
+    "name": "Santi Aldama",
+    "ppg": 12.5,
+    "apg": 2.9,
+    "rpg": 6.4,
+    "id": 1630583
+  },
+  {
+    "name": "Scoot Henderson",
+    "ppg": 12.7,
+    "apg": 5.1,
+    "rpg": 3,
+    "id": 1630703
+  },
+  {
+    "name": "Scottie Barnes",
+    "ppg": 19.3,
+    "apg": 5.8,
+    "rpg": 7.7,
+    "id": 1630567
+  },
+  {
+    "name": "Scotty Pippen Jr.",
+    "ppg": 9.9,
+    "apg": 4.4,
+    "rpg": 3.3,
+    "id": 1630590
+  },
+  {
+    "name": "Seth Curry",
+    "ppg": 6.5,
+    "apg": 0.9,
+    "rpg": 1.7,
+    "id": 203552
+  },
+  {
+    "name": "Shaedon Sharpe",
+    "ppg": 18.5,
+    "apg": 2.8,
+    "rpg": 4.5,
+    "id": 1631101
+  },
+  {
+    "name": "Shai Gilgeous-Alexander",
+    "ppg": 32.7,
+    "apg": 6.4,
+    "rpg": 5,
+    "id": 1628983
+  },
+  {
+    "name": "Shake Milton",
+    "ppg": 5.5,
+    "apg": 1.8,
+    "rpg": 1.8,
+    "id": 1629003
+  },
+  {
+    "name": "Sidy Cissoko",
+    "ppg": 1.5,
+    "apg": 0.7,
+    "rpg": 1,
+    "id": 1631321
+  },
+  {
+    "name": "Simone Fontecchio",
+    "ppg": 5.9,
+    "apg": 0.9,
+    "rpg": 2.9,
+    "id": 1631323
+  },
+  {
+    "name": "Skal Labissiere",
+    "ppg": 1.3,
+    "apg": 0.3,
+    "rpg": 0.8,
+    "id": 1627746
+  },
+  {
+    "name": "Spencer Dinwiddie",
+    "ppg": 11,
+    "apg": 4.4,
+    "rpg": 2.6,
+    "id": 203915
+  },
+  {
+    "name": "Spencer Jones",
+    "ppg": 1.3,
+    "apg": 0.3,
+    "rpg": 0.9,
+    "id": 1642461
+  },
+  {
+    "name": "Stanley Umude",
+    "ppg": 0.7,
+    "apg": 0.2,
+    "rpg": 0.8,
+    "id": 1630649
+  },
+  {
+    "name": "Stephen Curry",
+    "ppg": 24.5,
+    "apg": 6,
+    "rpg": 4.4,
+    "id": 201939
+  },
+  {
+    "name": "Stephon Castle",
+    "ppg": 14.7,
+    "apg": 4.1,
+    "rpg": 3.7,
+    "id": 1642264
+  },
+  {
+    "name": "Steven Adams",
+    "ppg": 3.9,
+    "apg": 1.1,
+    "rpg": 5.6,
+    "id": 203500
+  },
+  {
+    "name": "Svi Mykhailiuk",
+    "ppg": 8.8,
+    "apg": 2,
+    "rpg": 2.4,
+    "id": 1629004
+  },
+  {
+    "name": "T.J. McConnell",
+    "ppg": 9.1,
+    "apg": 4.4,
+    "rpg": 2.4,
+    "id": 204456
+  },
+  {
+    "name": "Taj Gibson",
+    "ppg": 2.9,
+    "apg": 0.6,
+    "rpg": 3.2,
+    "id": 201959
+  },
+  {
+    "name": "Talen Horton-Tucker",
+    "ppg": 6.5,
+    "apg": 1.4,
+    "rpg": 1.7,
+    "id": 1629659
+  },
+  {
+    "name": "Tari Eason",
+    "ppg": 12,
+    "apg": 1.5,
+    "rpg": 6.4,
+    "id": 1631106
+  },
+  {
+    "name": "Taurean Prince",
+    "ppg": 8.2,
+    "apg": 1.9,
+    "rpg": 3.6,
+    "id": 1627752
+  },
+  {
+    "name": "Taylor Hendricks",
+    "ppg": 4.7,
+    "apg": 0.7,
+    "rpg": 5,
+    "id": 1641707
+  },
+  {
+    "name": "Taze Moore",
+    "ppg": 3,
+    "apg": 0.5,
+    "rpg": 4,
+    "id": 1631386
+  },
+  {
+    "name": "Terance Mann",
+    "ppg": 7.7,
+    "apg": 1.8,
+    "rpg": 3,
+    "id": 1629611
+  },
+  {
+    "name": "Terence Davis",
+    "ppg": 0,
+    "apg": 1,
+    "rpg": 1,
+    "id": 1629056
+  },
+  {
+    "name": "Terrence Shannon Jr.",
+    "ppg": 4.3,
+    "apg": 1,
+    "rpg": 1.5,
+    "id": 1630545
+  },
+  {
+    "name": "Terry Rozier",
+    "ppg": 10.6,
+    "apg": 2.6,
+    "rpg": 3.7,
+    "id": 1626179
+  },
+  {
+    "name": "Terry Taylor",
+    "ppg": 0,
+    "apg": 0.7,
+    "rpg": 0.3,
+    "id": 1630678
+  },
+  {
+    "name": "Thomas Bryant",
+    "ppg": 6.5,
+    "apg": 0.8,
+    "rpg": 3.8,
+    "id": 1628418
+  },
+  {
+    "name": "Tidjane Salaün",
+    "ppg": 5.9,
+    "apg": 1.2,
+    "rpg": 4.7,
+    "id": 1642275
+  },
+  {
+    "name": "Tim Hardaway Jr.",
+    "ppg": 11,
+    "apg": 1.6,
+    "rpg": 2.4,
+    "id": 203501
+  },
+  {
+    "name": "Tobias Harris",
+    "ppg": 13.7,
+    "apg": 2.2,
+    "rpg": 5.9,
+    "id": 202699
+  },
+  {
+    "name": "Tolu Smith",
+    "ppg": 14,
+    "apg": 0,
+    "rpg": 8,
+    "id": 1642449
+  },
+  {
+    "name": "Tony Bradley",
+    "ppg": 4.4,
+    "apg": 0.4,
+    "rpg": 3,
+    "id": 1628396
+  },
+  {
+    "name": "Torrey Craig",
+    "ppg": 4.2,
+    "apg": 0.7,
+    "rpg": 2.8,
+    "id": 1628470
+  },
+  {
+    "name": "Tosan Evbuomwan",
+    "ppg": 9.5,
+    "apg": 2,
+    "rpg": 4.3,
+    "id": 1641787
+  },
+  {
+    "name": "Toumani Camara",
+    "ppg": 11.3,
+    "apg": 2.2,
+    "rpg": 5.8,
+    "id": 1641739
+  },
+  {
+    "name": "Trae Young",
+    "ppg": 24.2,
+    "apg": 11.6,
+    "rpg": 3.1,
+    "id": 1629027
+  },
+  {
+    "name": "Trayce Jackson-Davis",
+    "ppg": 6.6,
+    "apg": 1.7,
+    "rpg": 5,
+    "id": 1631218
+  },
+  {
+    "name": "Tre Jones",
+    "ppg": 7.2,
+    "apg": 4.2,
+    "rpg": 2.5,
+    "id": 1630200
+  },
+  {
+    "name": "Tre Mann",
+    "ppg": 14.1,
+    "apg": 3,
+    "rpg": 2.9,
+    "id": 1630544
+  },
+  {
+    "name": "Trendon Watford",
+    "ppg": 10.2,
+    "apg": 2.6,
+    "rpg": 3.6,
+    "id": 1630570
+  },
+  {
+    "name": "Trentyn Flowers",
+    "ppg": 1.8,
+    "apg": 0,
+    "rpg": 0.7,
+    "id": 1642280
+  },
+  {
+    "name": "Trevelin Queen",
+    "ppg": 4.9,
+    "apg": 1.2,
+    "rpg": 1.7,
+    "id": 1630243
+  },
+  {
+    "name": "Trey Alexander",
+    "ppg": 1.3,
+    "apg": 0.5,
+    "rpg": 0.5,
+    "id": 1641725
+  },
+  {
+    "name": "Trey Jemison III",
+    "ppg": 2.5,
+    "apg": 0.4,
+    "rpg": 2.8,
+    "id": 1641998
+  },
+  {
+    "name": "Trey Lyles",
+    "ppg": 6.5,
+    "apg": 1.2,
+    "rpg": 4.6,
+    "id": 1626168
+  },
+  {
+    "name": "Trey Murphy III",
+    "ppg": 21.2,
+    "apg": 3.5,
+    "rpg": 5.1,
+    "id": 1630530
+  },
+  {
+    "name": "Tristan Thompson",
+    "ppg": 1.7,
+    "apg": 0.6,
+    "rpg": 3.4,
+    "id": 202684
+  },
+  {
+    "name": "Tristan Vukcevic",
+    "ppg": 9.4,
+    "apg": 1.1,
+    "rpg": 3.7,
+    "id": 1641774
+  },
+  {
+    "name": "Tristan da Silva",
+    "ppg": 7.2,
+    "apg": 1.5,
+    "rpg": 3.3,
+    "id": 1641783
+  },
+  {
+    "name": "Tristen Newton",
+    "ppg": 0.4,
+    "apg": 0.3,
+    "rpg": 0.5,
+    "id": 1641803
+  },
+  {
+    "name": "Ty Jerome",
+    "ppg": 12.5,
+    "apg": 3.4,
+    "rpg": 2.5,
+    "id": 1629660
+  },
+  {
+    "name": "TyTy Washington Jr.",
+    "ppg": 2.2,
+    "apg": 1,
+    "rpg": 0.8,
+    "id": 1631102
+  },
+  {
+    "name": "Tyler Herro",
+    "ppg": 23.9,
+    "apg": 5.5,
+    "rpg": 5.2,
+    "id": 1629639
+  },
+  {
+    "name": "Tyler Kolek",
+    "ppg": 2,
+    "apg": 1.7,
+    "rpg": 0.7,
+    "id": 1642278
+  },
+  {
+    "name": "Tyler Smith",
+    "ppg": 2.9,
+    "apg": 0.2,
+    "rpg": 1.1,
+    "id": 1641890
+  },
+  {
+    "name": "Tyrese Haliburton",
+    "ppg": 18.6,
+    "apg": 9.2,
+    "rpg": 3.5,
+    "id": 1630169
+  },
+  {
+    "name": "Tyrese Martin",
+    "ppg": 8.7,
+    "apg": 2,
+    "rpg": 3.7,
+    "id": 1631213
+  },
+  {
+    "name": "Tyrese Maxey",
+    "ppg": 26.3,
+    "apg": 6.1,
+    "rpg": 3.3,
+    "id": 1630178
+  },
+  {
+    "name": "Tyson Etienne",
+    "ppg": 7.9,
+    "apg": 1.7,
+    "rpg": 1.3,
+    "id": 1630623
+  },
+  {
+    "name": "Tyus Jones",
+    "ppg": 10.2,
+    "apg": 5.3,
+    "rpg": 2.4,
+    "id": 1626145
+  },
+  {
+    "name": "Ulrich Chomche",
+    "ppg": 0.7,
+    "apg": 0.3,
+    "rpg": 1.1,
+    "id": 1642279
+  },
+  {
+    "name": "Vasilije Micic",
+    "ppg": 6.6,
+    "apg": 3.1,
+    "rpg": 2.2,
+    "id": 203995
+  },
+  {
+    "name": "Victor Wembanyama",
+    "ppg": 24.3,
+    "apg": 3.7,
+    "rpg": 11,
+    "id": 1641705
+  },
+  {
+    "name": "Vince Williams Jr.",
+    "ppg": 6.6,
+    "apg": 2,
+    "rpg": 3.6,
+    "id": 1631246
+  },
+  {
+    "name": "Vlatko Čančar",
+    "ppg": 1.8,
+    "apg": 0.7,
+    "rpg": 2.5,
+    "id": 1628427
+  },
+  {
+    "name": "Vít Krejčí",
+    "ppg": 7.2,
+    "apg": 2.6,
+    "rpg": 2.7,
+    "id": 1630249
+  },
+  {
+    "name": "Walker Kessler",
+    "ppg": 11.1,
+    "apg": 1.7,
+    "rpg": 12.2,
+    "id": 1631117
+  },
+  {
+    "name": "Wendell Carter Jr.",
+    "ppg": 9.1,
+    "apg": 2,
+    "rpg": 7.2,
+    "id": 1628976
+  },
+  {
+    "name": "Wendell Moore Jr.",
+    "ppg": 4.2,
+    "apg": 1.2,
+    "rpg": 2.6,
+    "id": 1631111
+  },
+  {
+    "name": "Xavier Tillman",
+    "ppg": 1,
+    "apg": 0.2,
+    "rpg": 1.3,
+    "id": 1630214
+  },
+  {
+    "name": "Yuki Kawamura",
+    "ppg": 1.6,
+    "apg": 0.9,
+    "rpg": 0.5,
+    "id": 1642530
+  },
+  {
+    "name": "Yuri Collins",
+    "ppg": 1,
+    "apg": 2,
+    "rpg": 1.5,
+    "id": 1641879
+  },
+  {
+    "name": "Yves Missi",
+    "ppg": 9.1,
+    "apg": 1.4,
+    "rpg": 8.2,
+    "id": 1642274
+  },
+  {
+    "name": "Zaccharie Risacher",
+    "ppg": 12.6,
+    "apg": 1.2,
+    "rpg": 3.6,
+    "id": 1642258
+  },
+  {
+    "name": "Zach Collins",
+    "ppg": 6.4,
+    "apg": 1.7,
+    "rpg": 4.5,
+    "id": 1628380
+  },
+  {
+    "name": "Zach Edey",
+    "ppg": 9.2,
+    "apg": 1,
+    "rpg": 8.3,
+    "id": 1641744
+  },
+  {
+    "name": "Zach LaVine",
+    "ppg": 23.3,
+    "apg": 4.2,
+    "rpg": 4.3,
+    "id": 203897
+  },
+  {
+    "name": "Zeke Nnaji",
+    "ppg": 3.2,
+    "apg": 0.4,
+    "rpg": 1.6,
+    "id": 1630192
+  },
+  {
+    "name": "Ziaire Williams",
+    "ppg": 10,
+    "apg": 1.3,
+    "rpg": 4.6,
+    "id": 1630533
+  },
+  {
+    "name": "Zion Williamson",
+    "ppg": 24.6,
+    "apg": 5.3,
+    "rpg": 7.2,
+    "id": 1629627
+  },
+  {
+    "name": "Zyon Pullin",
+    "ppg": 0,
+    "apg": 0,
+    "rpg": 0,
+    "id": 1642389
+  }
+]

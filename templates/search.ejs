@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<title>CMSC335 FINAL PROJECT</title>
+
+    <link rel="stylesheet" href="style.css" type="text/css">
+
+    <!-- favicon -->
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" >
+</head>
+
+<body>
+    <div class="outerContainer">
+        <%- include('header.ejs') %>
+
+        <h1>Search Page</h1>
+        <p>Search up an nba player to view their stats during 2024-2025 seaons:</p><br>
+
+        <form action="/search" method="post">
+            <label>Enter nba player name:
+                <input type="text" id="playerName" name="playerName" placeholder="Lebron James" required>
+            </label>
+            <button type="submit">Search Player</button>
+        </form>
+
+        <br>
+        <br>
+
+         <div class="playerInfo">
+            <%- answer %>
+
+            <img src="https://cdn.nba.com/headshots/nba/latest/1040x760/<%= playerId %>.png" alt="First Nba Player" width="300" height="auto">
+        </div>
+
+        <br>
+        <br>
+
+    </div>
+
+
+    <script>
+
+    </script>
+
+</body>
+
+</html>

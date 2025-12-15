@@ -1,15 +1,15 @@
 # CMSC335-Final-Project
 
-Submitted by: Rose Smith (superterp)
+Submitted by: Bryan Yang (byang127)
 
-Group Members: Rose Smith (superterp), Peter Santos (pmegaterp)
+Group Members: Bryan Yang (byang127)
 
-App Description: Allow users to find images, songs of an author, and store/retrieve the results.
+App Description: Allows users to search up nba player's average points, rebounds, and assists per game. We also have an NBA Higher or Lower Game where two randomly selected players are given and you choose which person averages more points per game than the other in the 2024-2025 season. You earn a point for every round you get correct. You lose when you get a round incorrect. The higher or lower game has a leaderboard of all the top scorers. 
 
-YouTube Video Link: https://www.youtube.com/MyAmazingAPP
+YouTube Video Link:
 
-APIs: VideoApp (http:notrealvideoapp.what), SoundApp (http:notreadlsoundapp.what)
+APIs: nba (https://github.com/bttmly/nba?tab=readme-ov-file)
 
-Contact Email:  superterp@notreal.address.what
+Contact Email:  byang127@umd.edu
 
 Deployed App Link: https://notreal.what.terpNel/myApp
