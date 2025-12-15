@@ -10,21 +10,18 @@ const portNumber = 7003;
 const bodyParser = require("body-parser"); /* For post */
 const fs = require("fs"); /* Module for file reading */
 
-const session = require("express-session");
-app.use(session({
-   secret: "secret",
-   resave: false,
-   saveUninitialized: true
-}));
+// const session = require("express-session");
+// app.use(session({
+//    secret: "secret",
+//    resave: false,
+//    saveUninitialized: true
+// }));
 
 app.use(bodyParser.urlencoded({extended:false})); /* Initializes request.body with post information */ 
 app.use(express.json());
 app.set("view engine", "ejs");
 app.set("views", path.resolve(__dirname, "templates"));
 app.use(express.static("public")); // public folder is where we put static content
-
-// nba api
-const NBA = require("nba");
 
 
 /* COMMENT THIS OUT BEFORE DEPLOYMENT */
@@ -38,6 +35,7 @@ require("dotenv").config({
 const fileName = "playerStats2025.json";
 let fileContent = fs.readFileSync(fileName, 'utf-8');
 const playersJSONArray = JSON.parse(fileContent);
+let playersArray = playersJSONArray;
 
 // Get the user schema
 const User = require("./model/User.js");
@@ -45,18 +43,18 @@ class Game {
    name;
    score;
    round;
-   playersArray;
+   // playersArray;
 
    playerOne;
    playerTwo;
 
    highscore; //
 
-   constructor(playersJSONArray) {
+   constructor() {
       this.name = "";
       this.score = 0;
       this.round = 1;
-      this.playersArray = playersJSONArray;
+      // this.playersArray = playersJSONArray;
 
       // Initialize the two random nba players
       this.setNewRandomwPlayers();
@@ -106,8 +104,8 @@ class Game {
    }
 
    getRandomPlayer() {
-      const randomIndex = Math.floor(Math.random() * this.playersArray.length);
-      const randomPlayer = this.playersArray[randomIndex];
+      const randomIndex = Math.floor(Math.random() * playersArray.length);
+      const randomPlayer = playersArray[randomIndex];
       return randomPlayer;
    }
 
@@ -123,7 +121,8 @@ class Game {
 
 
 // Initialize the game
-const game = new Game(playersJSONArray);
+const game = new Game();
+
 
 // Initialize mongoose
 mongoose.connect(process.env.MONGO_CONNECTION_STRING, {
@@ -194,9 +193,8 @@ app.post("/gameStart", async (request, result) => {
       game.name = name;
 
       // Check if the user with name has played before
-      let user = await User.exists({ name: game.name });
+      let user = await User.findOne({ name: game.name });
       if (user) {
-         user = await User.findOne({ name: game.name });
          game.highscore = user.highscore;
       } else {
          game.highscore = 0;
@@ -234,6 +232,7 @@ app.get("/gamePage", (request, result) => {
 
 app.post("/answer", async (request, result) => {
    try {
+
       const userChoice = request.body.userChoice;
 
       // Check if the user got the correct answer
@@ -244,7 +243,7 @@ app.post("/answer", async (request, result) => {
          correct = true;
       }
 
-      let message = correct ? `Correct!\n\n` : `Wrong!\n\n`;
+      let message = correct ? `Correct!\n\n` : `You Lost!\n\n`;
       message += `${game.playerOne.name} averaged: ${game.playerOne.ppg}\n`;
       message += `${game.playerTwo.name} averaged: ${game.playerTwo.ppg}\n\n`;
 
@@ -336,17 +335,6 @@ app.get("/leaderboard", async (request, result) => {
    }
 });
 
-
-// app.get("/api/players", async (req, res) => {
-//   const q = req.query.q?.toLowerCase();
-//   if (!q) return res.json([]);
-
-//   const matches = playersJSONArray
-//     .filter(p => p.name.toLowerCase().includes(q))
-//     .slice(0, 10);
-
-//   res.json(matches);
-// });
 
 
 

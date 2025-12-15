@@ -11,6 +11,6 @@ const userSchema = new mongoose.Schema({
    }
 });
 
-// collection name will be songs
+// collection name will be users
 const User = mongoose.model("User", userSchema);
 module.exports = User;
