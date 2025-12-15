@@ -24,7 +24,7 @@ app.set("views", path.resolve(__dirname, "templates"));
 app.use(express.static("public")); // public folder is where we put static content
 
 
-/* COMMENT THIS OUT BEFORE DEPLOYMENT */
+/* Do not need to comment out before deployment */
 require("dotenv").config({
    path: path.resolve(__dirname, "credentialsDontPost/.env"),
    quiet: true
