@@ -10,12 +10,12 @@ const portNumber = 7003;
 const bodyParser = require("body-parser"); /* For post */
 const fs = require("fs"); /* Module for file reading */
 
-// const session = require("express-session");
-// app.use(session({
-//    secret: "secret",
-//    resave: false,
-//    saveUninitialized: true
-// }));
+const session = require("express-session");
+app.use(session({
+   secret: "secret",
+   resave: false,
+   saveUninitialized: true
+}));
 
 app.use(bodyParser.urlencoded({extended:false})); /* Initializes request.body with post information */ 
 app.use(express.json());
@@ -43,21 +43,17 @@ class Game {
    name;
    score;
    round;
-   // playersArray;
-
    playerOne;
    playerTwo;
-
-   highscore; //
+   highscore;
 
    constructor() {
       this.name = "";
       this.score = 0;
       this.round = 1;
-      // this.playersArray = playersJSONArray;
 
       // Initialize the two random nba players
-      this.setNewRandomwPlayers();
+      this.setNewRandomPlayers();
    }
 
    get name() {
@@ -92,13 +88,14 @@ class Game {
    nextRound() {
       this.round++;
       this.score++;
+
       if (this.score > this.highscore) {
          this.highscore = this.score;
       }
-      this.setNewRandomwPlayers();
+      this.setNewRandomPlayers();
    }
 
-   setNewRandomwPlayers() {
+   setNewRandomPlayers() {
       this.playerOne = this.getRandomPlayer();
       this.playerTwo = this.getRandomPlayer();
    }
@@ -113,15 +110,28 @@ class Game {
       this.round = 1;
       this.score = 0;
       this.highscore = 0;
-      this.setNewRandomwPlayers();
+      this.setNewRandomPlayers();
+   }
+
+   // Rehydration because calling const game = request.session.game; makes game 
+   // a plain object and not a Game instance anymore
+   static fromSession(obj) {
+      const game = new Game();
+
+      game.name = obj.name;
+      game.score = obj.score;
+      game.round = obj.round;
+      game.highscore = obj.highscore;
+      game.playerOne = obj.playerOne;
+      game.playerTwo = obj.playerTwo;
+
+      return game;
    }
 }
 
 
-
-
 // Initialize the game
-const game = new Game();
+// const game = new Game();
 
 
 // Initialize mongoose
@@ -137,76 +147,34 @@ app.get("/", (request, result) => {
    result.render("index.ejs");
 });
 
-app.get("/search", (request, result) => {
-
-   const variables = {
-      answer: ``,
-      playerId: 0
-   }
-
-   result.render("search.ejs", variables);
-});
-
-
-app.post("/search", async (request, result) => {
-
-   try {
-      let { playerName } = request.body;
-
-      const player = playersJSONArray.find(elt => elt.name.toLowerCase() === playerName.toLowerCase());
-      let answer = ``;
-      if (player) {
-         answer += `<strong>${player.name}:</strong><br><br>`;
-         answer += `average points per game: ${player.ppg}<br>`;
-         answer += `average assists per game: ${player.apg}<br>`;
-         answer += `average rebounds per game: ${player.rpg}<br>`;
-
-      } else {
-         answer += `Not a valid player name`;
-      }
-      
-
-      const variables = {
-         answer: answer,
-         playerId: player ? player.id : 0
-      }
-
-      result.render("search", variables);
-
-   } catch (err) {
-      console.error(err);
-   }
-   
-});
-
+// search endpoint
+const searchPageRouter = require("./routes/search.js")(playersJSONArray); // pass in playersJSONArray
+app.use("/search", searchPageRouter);
 
 
 app.get("/gameStart", (request, result) => {
-   game.resetGame();
-
    result.render("gameStart.ejs");
 });
 
 app.post("/gameStart", async (request, result) => {
    try {
       let {name} = request.body;
-      game.name = name;
 
       // Check if the user with name has played before
-      let user = await User.findOne({ name: game.name });
-      if (user) {
-         game.highscore = user.highscore;
-      } else {
-         game.highscore = 0;
-      }
+      let user = await User.findOne({ name: name });
+      let highscore = user ? user.highscore : 0;
 
+      request.session.game = new Game();
+      request.session.game.name = name;
+      request.session.game.highscore = highscore;
+      
       let variables = {
-         name: game.name,
-         round: game.round,
-         score: game.score,
-         playerOne: game.playerOne,
-         playerTwo: game.playerTwo,
-         highscore: game.highscore
+         name: request.session.game.name,
+         round: request.session.game.round,
+         score: request.session.game.score,
+         playerOne: request.session.game.playerOne,
+         playerTwo: request.session.game.playerTwo,
+         highscore: request.session.game.highscore
       }
       result.render("gamePage.ejs", variables);
 
@@ -216,24 +184,28 @@ app.post("/gameStart", async (request, result) => {
 });
 
 app.get("/gamePage", (request, result) => {
+   const game = Game.fromSession(request.session.game);
+   
    game.nextRound();
 
-   let variables = {
+   request.session.game = game;
+
+   result.render("gamePage.ejs", {
       name: game.name,
       round: game.round,
       score: game.score,
       playerOne: game.playerOne,
       playerTwo: game.playerTwo,
       highscore: game.highscore
-   }
-   result.render("gamePage.ejs", variables);
-   
+   });
 });
 
 app.post("/answer", async (request, result) => {
    try {
 
       const userChoice = request.body.userChoice;
+
+      const game = request.session.game;
 
       // Check if the user got the correct answer
       let correct = false;
@@ -251,17 +223,16 @@ app.post("/answer", async (request, result) => {
          message += `Your final score is: ${game.score}\n`;
 
          // Check if we need to update DB
-         let user = await User.exists({ name: game.name });
+         const user = await User.findOne({ name: game.name });
       
          if (user) {
             // Check if their highscore is greater than current score
-            user = await User.findOne({ name: game.name });
             if (user.highscore > game.score) {
                message += `You have not beaten your highscore of ${user.highscore}`;
             } else {
                message += `Congrats, you have beaten your highscore of ${user.highscore};\n DB updated`;
 
-               const updateResult = await User.updateOne(
+               await User.updateOne(
                   { name: game.name }, // filter
                   { $set: { highscore: game.score } }
                );

@@ -21,13 +21,15 @@ async function submitAnswer(userChoice) {
     });
 
     const data = await res.json();
+    let correct = data.correct;
+    let message = data.message;
 
-    if (data.correct) {
-        alert(data.message);
+    if (correct) {
+        alert(message);
         // location.reload();
         window.location.href = "/gamePage";
     } else {
-        alert(data.message);
+        alert(message);
         window.location.href = "/leaderboard";
     }
 }
