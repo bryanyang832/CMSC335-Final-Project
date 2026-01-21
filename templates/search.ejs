@@ -20,7 +20,16 @@
 
         <form action="/search" method="post">
             <label>Enter nba player name:
-                <input type="text" id="playerName" name="playerName" placeholder="Lebron James" required>
+                <input type="text" id="playerName" name="playerName" placeholder="Lebron James" required list="players">
+
+                <!-- Method one for adding -->
+                <datalist id="players">
+                    <% playerNames.forEach(playerName => { %>
+                        <option value="<%= playerName %>"></option>
+                    <% }) %>
+                </datalist>
+
+                <ul id="suggestions" class="suggestions"></ul>
             </label>
             <button type="submit">Search Player</button>
         </form>
@@ -41,7 +50,37 @@
 
 
     <script>
+        const playerNames = <%- JSON.stringify(playerNames) %>;
+        const input = document.getElementById("playerName");
+        const suggestions = document.getElementById("suggestions");
 
+        input.addEventListener("input", () => {
+            const value = input.value.toLowerCase();
+            suggestions.innerHTML = "";
+
+            if (!value) return;
+
+            playerNames
+            .filter(name => name.toLowerCase().startsWith(value))
+            .slice(0, 8)
+            .forEach(match => {
+                const li = document.createElement("li");
+                li.textContent = match;
+
+                li.addEventListener("click", () => {
+                input.value = match;
+                suggestions.innerHTML = "";
+                });
+
+                suggestions.appendChild(li);
+            });
+        });
+
+        document.addEventListener("click", (e) => {
+            if (!suggestions.contains(e.target) && e.target !== input) {
+            suggestions.innerHTML = "";
+            }
+        });
     </script>
 
 </body>
