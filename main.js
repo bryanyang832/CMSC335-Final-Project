@@ -12,7 +12,7 @@ const fs = require("fs"); /* Module for file reading */
 
 const session = require("express-session");
 app.use(session({
-   secret: "secret",
+   secret: "putsomethingsecretheredontshow",
    resave: false,
    saveUninitialized: true
 }));
@@ -30,116 +30,19 @@ require("dotenv").config({
    quiet: true
 });
 
+const User = require("./model/User.js"); // Get the user schema
+const Game = require("./game/Game.js");
 
 // Read playerStats2025.json containing al players and their stats
 const fileName = "playerStats2025.json";
 let fileContent = fs.readFileSync(fileName, 'utf-8');
 const playersJSONArray = JSON.parse(fileContent);
-let playersArray = playersJSONArray;
-
-// Get the user schema
-const User = require("./model/User.js");
-class Game {
-   name;
-   score;
-   round;
-   playerOne;
-   playerTwo;
-   highscore;
-
-   constructor() {
-      this.name = "";
-      this.score = 0;
-      this.round = 1;
-
-      // Initialize the two random nba players
-      this.setNewRandomPlayers();
-   }
-
-   get name() {
-      return this.name;
-   }
-   set name(name) {
-      this.name = name;
-   }
-
-   set highscore(highscore) {
-      this.highscore = highscore;
-   }
-
-   get round() {
-      return this.round;
-   }
-
-   get score() {
-      return this.score;
-   }
-   get highscore() {
-      return this.highscore;
-   }
-
-   get playerOne() {
-      return this.playerOne;
-   }
-   get playerTwo() {
-      return this.playerTwo;
-   }
-
-   nextRound() {
-      this.round++;
-      this.score++;
-
-      if (this.score > this.highscore) {
-         this.highscore = this.score;
-      }
-      this.setNewRandomPlayers();
-   }
-
-   setNewRandomPlayers() {
-      this.playerOne = this.getRandomPlayer();
-      this.playerTwo = this.getRandomPlayer();
-   }
-
-   getRandomPlayer() {
-      const randomIndex = Math.floor(Math.random() * playersArray.length);
-      const randomPlayer = playersArray[randomIndex];
-      return randomPlayer;
-   }
-
-   resetGame() {
-      this.round = 1;
-      this.score = 0;
-      this.highscore = 0;
-      this.setNewRandomPlayers();
-   }
-
-   // Rehydration because calling const game = request.session.game; makes game 
-   // a plain object and not a Game instance anymore
-   static fromSession(obj) {
-      const game = new Game();
-
-      game.name = obj.name;
-      game.score = obj.score;
-      game.round = obj.round;
-      game.highscore = obj.highscore;
-      game.playerOne = obj.playerOne;
-      game.playerTwo = obj.playerTwo;
-
-      return game;
-   }
-}
-
-
-// Initialize the game
-// const game = new Game();
-
+Game.playersJSONArray = playersJSONArray;
 
 // Initialize mongoose
 mongoose.connect(process.env.MONGO_CONNECTION_STRING, {
    dbName: "cmsc335_final_project"
 }).catch(err => console.error(err));
-
-
 
 
 // Express
@@ -148,40 +51,12 @@ app.get("/", (request, result) => {
 });
 
 // search endpoint
-const searchPageRouter = require("./routes/search.js")(playersJSONArray); // pass in playersJSONArray
+const searchPageRouter = require("./routes/search.js")(Game.playersJSONArray); // pass in playersJSONArray
 app.use("/search", searchPageRouter);
 
+const gameStartRouter = require("./routes/gameStart.js");
+app.use("/gameStart", gameStartRouter);
 
-app.get("/gameStart", (request, result) => {
-   result.render("gameStart.ejs");
-});
-
-app.post("/gameStart", async (request, result) => {
-   try {
-      let {name} = request.body;
-
-      // Check if the user with name has played before
-      let user = await User.findOne({ name: name });
-      let highscore = user ? user.highscore : 0;
-
-      request.session.game = new Game();
-      request.session.game.name = name;
-      request.session.game.highscore = highscore;
-      
-      let variables = {
-         name: request.session.game.name,
-         round: request.session.game.round,
-         score: request.session.game.score,
-         playerOne: request.session.game.playerOne,
-         playerTwo: request.session.game.playerTwo,
-         highscore: request.session.game.highscore
-      }
-      result.render("gamePage.ejs", variables);
-
-   } catch(err) {
-      console.error(err);
-   }
-});
 
 app.get("/gamePage", (request, result) => {
    const game = Game.fromSession(request.session.game);
@@ -202,9 +77,7 @@ app.get("/gamePage", (request, result) => {
 
 app.post("/answer", async (request, result) => {
    try {
-
       const userChoice = request.body.userChoice;
-
       const game = request.session.game;
 
       // Check if the user got the correct answer
@@ -222,16 +95,13 @@ app.post("/answer", async (request, result) => {
       if (!correct) {
          message += `Your final score is: ${game.score}\n`;
 
-         // Check if we need to update DB
+         // Check if user has previously played
          const user = await User.findOne({ name: game.name });
-      
          if (user) {
-            // Check if their highscore is greater than current score
             if (user.highscore > game.score) {
                message += `You have not beaten your highscore of ${user.highscore}`;
             } else {
-               message += `Congrats, you have beaten your highscore of ${user.highscore};\n DB updated`;
-
+               message += `Congrats, you have beaten your highscore of ${user.highscore}`;
                await User.updateOne(
                   { name: game.name }, // filter
                   { $set: { highscore: game.score } }
@@ -239,15 +109,15 @@ app.post("/answer", async (request, result) => {
             }
 
          } else {
-            // Add the user to database
+            // Create the user to database
             await User.create({
                name: game.name,
                highscore: game.score
             });
-
             message += `This is your first time playing, your highscore is ${game.score}`;
          }
-      } else {
+
+      } else { // Correct
          message += `Your current score is: ${game.score + 1}`;
       }
 
@@ -255,7 +125,6 @@ app.post("/answer", async (request, result) => {
          correct: correct,
          message: message
       }
-
       result.json(answer);
 
    } catch (err) {
@@ -266,7 +135,6 @@ app.post("/answer", async (request, result) => {
 app.get("/leaderboard", async (request, result) => {
 
    try {
-
       // Get leaderboard information from mongodb
       const topScorers = await User.find({}, {
          name: true,

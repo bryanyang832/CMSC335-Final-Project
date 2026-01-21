@@ -6,7 +6,8 @@ module.exports = (playersJSONArray) => {
    router.get("/", (request, result) => {
       const variables = {
          answer: ``,
-         playerId: 0
+         playerId: 0,
+         playerNames: playersJSONArray.map(elt => elt.name)
       }
 
       result.render("search.ejs", variables);
@@ -30,7 +31,8 @@ module.exports = (playersJSONArray) => {
       
       const variables = {
          answer: answer,
-         playerId: player ? player.id : 0
+         playerId: player ? player.id : 0,
+         playerNames: playersJSONArray.map(elt => elt.name)
       }
 
       result.render("search", variables);
