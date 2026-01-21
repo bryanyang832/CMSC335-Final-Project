@@ -3,7 +3,6 @@ const NBA = require("nba");
 
 (async () => {
     const data = await NBA.stats.playerStats({ Season: "2024-25" })
-    // const data = await response.json();
     console.log(data);
 
     let playerStats2025 = [];
@@ -21,4 +20,4 @@ const NBA = require("nba");
     fs.writeFileSync("playerStats2025.json", JSON.stringify(playerStats2025, null, 2));
 })();
 
-
+// to run >> node getPlayerStats.js
